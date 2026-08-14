@@ -42,7 +42,7 @@
             "last_commit": "2026-06-29T17:36:22Z",
             "owner": "ActivityWatch",
             "repo": "aw-watcher-window-wayland",
-            "stars": 100
+            "stars": 101
           }
         },
         {
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:33:37.209Z",
+    "last_updated": "2026-08-14T19:27:13.031Z",
     "original_repository": "ActivityWatch/awesome-activitywatch",
     "original_repository_sha": "de2e6d0a38b34a84b5ca5e399e5dc2d525c58e4a",
     "enhanced_repository": "enhansome/enhansome-activitywatch",
