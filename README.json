@@ -14,7 +14,7 @@
             "last_commit": "2026-07-31T21:44:16Z",
             "owner": "2e3s",
             "repo": "awatcher",
-            "stars": 300
+            "stars": 301
           }
         },
         {
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:27:13.031Z",
+    "last_updated": "2026-08-15T18:54:54.902Z",
     "original_repository": "ActivityWatch/awesome-activitywatch",
     "original_repository_sha": "de2e6d0a38b34a84b5ca5e399e5dc2d525c58e4a",
     "enhanced_repository": "enhansome/enhansome-activitywatch",
