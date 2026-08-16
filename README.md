@@ -20,7 +20,7 @@ This list is just getting started. *Do you see anything missing? [Make a pull re
 
 The main ActivityWatch application and alternative implementations:
 
-* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 18,601 | 🐛 191 | 🌐 Python | 📅 2026-08-06) - The official distribution, includes:
+* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 18,612 | 🐛 191 | 🌐 Python | 📅 2026-08-06) - The official distribution, includes:
   * aw-qt (tray application)
   * aw-server & aw-server-rust (storage and API)
   * aw-watcher-window (window tracking)
@@ -75,7 +75,7 @@ ActivityWatch comes with two watchers enabled by default:
 
 ## Browser Watchers :globe\_with\_meridians:
 
-* [aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) ⭐ 557 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-04 - Official browser extension for Chrome, Edge, and Firefox
+* [aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) ⭐ 557 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-16 - Official browser extension for Chrome, Edge, and Firefox
 
 ## Editor Watchers :pencil2:
 
@@ -94,7 +94,7 @@ ActivityWatch comes with two watchers enabled by default:
 
 * [aw-watcher-spotify](https://github.com/ActivityWatch/aw-watcher-spotify) ⭐ 87 | 🐛 13 | 🌐 Python | 📅 2026-05-24 - Tracks currently playing Spotify tracks (Beta)
 * [aw-watcher-media-player](https://github.com/2e3s/aw-watcher-media-player) ⭐ 75 | 🐛 5 | 🌐 Rust | 📅 2026-04-25 - Tracks system-wide media playback
-* [aw-watcher-lastfm](https://github.com/brayo-pip/aw-watcher-lastfm) ⭐ 15 | 🐛 0 | 🌐 Rust | 📅 2026-07-11 - Tracks Last.fm scrobbles (supports most streaming services)
+* [aw-watcher-lastfm](https://github.com/brayo-pip/aw-watcher-lastfm) ⭐ 15 | 🐛 0 | 🌐 Rust | 📅 2026-08-16 - Tracks Last.fm scrobbles (supports most streaming services)
 * [aw-watcher-mpv-sender](https://github.com/RundownRhino/aw-watcher-mpv-sender) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2024-07-20 - Tracks currently playing mpv videos (WIP)
 * [aw-watcher-openvr](https://github.com/ActivityWatch/aw-watcher-openvr) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2017-05-25 - For VR applications (WIP)
 * [aw-watcher-chromecast](https://github.com/ActivityWatch/aw-watcher-chromecast) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2017-08-02 - For Chromecast devices (WIP)
@@ -173,4 +173,4 @@ Thank you for supporting ActivityWatch and helping it stay afloat financially as
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
