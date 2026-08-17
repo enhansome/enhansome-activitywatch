@@ -14,7 +14,7 @@
             "last_commit": "2026-07-31T21:44:16Z",
             "owner": "2e3s",
             "repo": "awatcher",
-            "stars": 301
+            "stars": 302
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-28T15:30:53Z",
+            "last_commit": "2026-08-17T11:48:15Z",
             "owner": "ActivityWatch",
             "repo": "aw-watcher-window",
             "stars": 127
@@ -312,7 +312,7 @@
             "last_commit": "2024-10-17T16:38:32Z",
             "owner": "ActivityWatch",
             "repo": "aw-watcher-input",
-            "stars": 167
+            "stars": 168
           }
         },
         {
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T18:54:25.902Z",
+    "last_updated": "2026-08-17T19:06:39.571Z",
     "original_repository": "ActivityWatch/awesome-activitywatch",
     "original_repository_sha": "de2e6d0a38b34a84b5ca5e399e5dc2d525c58e4a",
     "enhanced_repository": "enhansome/enhansome-activitywatch",
