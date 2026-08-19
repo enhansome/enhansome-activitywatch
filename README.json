@@ -12,10 +12,10 @@
             "archived": false,
             "id": 57224308,
             "language": "Python",
-            "last_commit": "2026-08-17T21:38:13Z",
+            "last_commit": "2026-08-19T17:00:12Z",
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18637
+            "stars": 18645
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-10T14:36:59Z",
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 311
+            "stars": 312
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-10T14:36:59Z",
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 311
+            "stars": 312
           }
         },
         {
@@ -793,7 +793,7 @@
             "last_commit": "2026-08-10T14:36:59Z",
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 311
+            "stars": 312
           }
         },
         {
@@ -831,7 +831,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:23.982Z",
+    "last_updated": "2026-08-19T19:01:53.759Z",
     "original_repository": "ActivityWatch/awesome-activitywatch",
     "original_repository_id": 634528093,
     "original_repository_sha": "de2e6d0a38b34a84b5ca5e399e5dc2d525c58e4a",
