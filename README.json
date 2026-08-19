@@ -1,29 +1,169 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "The main ActivityWatch application and alternative implementations:",
       "items": [
         {
           "node_type": "item",
-          "title": "awatcher",
-          "description": "A compiled watcher for X11 and Wayland by @2e3s",
+          "title": "ActivityWatch (releases",
+          "description": ") - The official distribution, includes:",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-31T21:44:16Z",
-            "owner": "2e3s",
-            "repo": "awatcher",
-            "stars": 302
+            "id": 57224308,
+            "language": "Python",
+            "last_commit": "2026-08-17T21:38:13Z",
+            "owner": "ActivityWatch",
+            "repo": "activitywatch",
+            "stars": 18637
           }
         },
         {
           "node_type": "item",
-          "title": "aw-watcher-window",
-          "description": "The official window watcher for Windows, macOS, and Linux (X11)",
+          "title": "aw-tauri",
+          "description": "(WIP), experimental/alternative distribution of ActivityWatch using Tauri",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 626593689,
+            "language": "Rust",
+            "last_commit": "2026-08-03T19:18:47Z",
+            "owner": "ActivityWatch",
+            "repo": "aw-tauri",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yet-another-UI-for-AW",
+          "description": ", a native UI for ActivityWatch with Japanese localization (announcement forum post)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 730975665,
+            "language": "Python",
+            "last_commit": "2024-01-31T06:13:06Z",
+            "owner": "K-Kuyama",
+            "repo": "yet-another-UI-for-AW",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codewatch",
+          "description": ", desktop client for ActivityWatch focused on software development and productivity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 622866743,
+            "language": "Svelte",
+            "last_commit": "2023-06-05T16:29:28Z",
+            "owner": "jpcafe10",
+            "repo": "codewatch",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "ActivityWatch has a modular architecture that includes a server component for storing and analyzing the collected data.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aw-server-rust",
+          "description": ", an official server implementation written in Rust for improved performance",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152148256,
+            "language": "Rust",
+            "last_commit": "2026-08-10T14:36:59Z",
+            "owner": "ActivityWatch",
+            "repo": "aw-server-rust",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aw-server",
+          "description": ", an official server implementation written in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55904087,
+            "language": "Python",
+            "last_commit": "2026-07-28T20:16:12Z",
+            "owner": "ActivityWatch",
+            "repo": "aw-server",
+            "stars": 124
+          }
+        }
+      ],
+      "title": "Server Implementations :computer:"
+    },
+    {
+      "description": "The ActivityWatch ecosystem provides client libraries to help developers interact with the ActivityWatch server API and create custom watchers, integrations, extensions, or applications. Here are the official client libraries:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aw-client-rust",
+          "description": ", a client library written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152148256,
+            "language": "Rust",
+            "last_commit": "2026-08-10T14:36:59Z",
+            "owner": "ActivityWatch",
+            "repo": "aw-server-rust",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aw-client",
+          "description": ", a client library written in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56850164,
+            "language": "Python",
+            "last_commit": "2026-07-23T11:07:18Z",
+            "owner": "ActivityWatch",
+            "repo": "aw-client",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aw-client-js",
+          "description": ", a client library written in JavaScript/TypeScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 57276953,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T20:51:29Z",
+            "owner": "ActivityWatch",
+            "repo": "aw-client-js",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Client Libraries"
+    },
+    {
+      "description": "ActivityWatch comes with two watchers enabled by default:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aw-watcher-window",
+          "description": "Watches the active window and its metadata",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66086574,
             "language": "Python",
             "last_commit": "2026-08-17T11:48:15Z",
             "owner": "ActivityWatch",
@@ -33,435 +173,667 @@
         },
         {
           "node_type": "item",
-          "title": "aw-watcher-window-wayland",
-          "description": "Window watcher for Wayland by @johan-bjareholt",
+          "title": "aw-watcher-afk",
+          "description": "Watches for mouse & keyboard activity to detect if the user is active",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-29T17:36:22Z",
+            "id": 55364456,
+            "language": "Python",
+            "last_commit": "2026-07-22T13:01:00Z",
             "owner": "ActivityWatch",
-            "repo": "aw-watcher-window-wayland",
-            "stars": 101
+            "repo": "aw-watcher-afk",
+            "stars": 74
           }
         },
         {
-          "node_type": "item",
-          "title": "aw-watcher-enhanced",
-          "description": "Enhanced window watcher with OCR screen capture, LLM-powered context extraction (via Ollama), smart idle detection, and remote desktop support by @kepptic",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-10T07:15:32Z",
-            "owner": "kepptic",
-            "repo": "aw-watcher-enhanced",
-            "stars": 7
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awatcher",
+              "description": "A compiled watcher for X11 and Wayland by @2e3s",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626659549,
+                "language": "Rust",
+                "last_commit": "2026-07-31T21:44:16Z",
+                "owner": "2e3s",
+                "repo": "awatcher",
+                "stars": 302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-window",
+              "description": "The official window watcher for Windows, macOS, and Linux (X11)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66086574,
+                "language": "Python",
+                "last_commit": "2026-08-17T11:48:15Z",
+                "owner": "ActivityWatch",
+                "repo": "aw-watcher-window",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-window-wayland",
+              "description": "Window watcher for Wayland by @johan-bjareholt",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213979851,
+                "language": "Rust",
+                "last_commit": "2026-06-29T17:36:22Z",
+                "owner": "ActivityWatch",
+                "repo": "aw-watcher-window-wayland",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-enhanced",
+              "description": "Enhanced window watcher with OCR screen capture, LLM-powered context extraction (via Ollama), smart idle detection, and remote desktop support by @kepptic",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1108276608,
+                "language": "Rust",
+                "last_commit": "2026-03-10T07:15:32Z",
+                "owner": "kepptic",
+                "repo": "aw-watcher-enhanced",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Window Watchers :desktop_computer:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aw-watcher-vscode",
+              "description": "Visual Studio Code extension by @Otto-AA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137863325,
+                "language": "TypeScript",
+                "last_commit": "2024-01-12T09:13:46Z",
+                "owner": "ActivityWatch",
+                "repo": "aw-watcher-vscode",
+                "stars": 278
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-vim",
+              "description": "Vim extension by @johan-bjareholt and @ahnlabb",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124559515,
+                "language": "Vim Script",
+                "last_commit": "2023-10-09T16:44:14Z",
+                "owner": "ActivityWatch",
+                "repo": "aw-watcher-vim",
+                "stars": 123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-obsidian",
+              "description": "Obsidian.md extension by @LordGrimmauld",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 589182846,
+                "language": "TypeScript",
+                "last_commit": "2023-02-23T12:04:45Z",
+                "owner": "LordGrimmauld",
+                "repo": "aw-watcher-obsidian",
+                "stars": 112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "activity-watch-mode",
+              "description": "Emacs mode by @pauldub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153078690,
+                "language": "Emacs Lisp",
+                "last_commit": "2026-03-18T19:08:36Z",
+                "owner": "pauldub",
+                "repo": "activity-watch-mode",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-jetbrains",
+              "description": "For all JetBrains IDEs by @OlivierMary (JetBrains Marketplace)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 158618728,
+                "language": "Java",
+                "last_commit": "2024-07-08T23:06:58Z",
+                "owner": "OlivierMary",
+                "repo": "aw-watcher-jetbrains",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ActivityWatchVS",
+              "description": "Visual Studio extension by @LaggAt",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170216441,
+                "language": "C#",
+                "last_commit": "2025-01-07T08:05:30Z",
+                "owner": "LaggAt",
+                "repo": "ActivityWatchVS",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-sublime",
+              "description": "Sublime Text 3 by @kostasdizas",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242415771,
+                "language": "Python",
+                "last_commit": "2025-05-27T07:03:58Z",
+                "owner": "kostasdizas",
+                "repo": "aw-watcher-sublime",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-idea",
+              "description": "JetBrains IDE extension by @pascalwhoop (WIP)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159561969,
+                "language": "Java",
+                "last_commit": "2018-12-04T22:09:39Z",
+                "owner": "pascalwhoop",
+                "repo": "aw-idea",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-atom",
+              "description": "Atom by @NicoWeio",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256544555,
+                "language": "JavaScript",
+                "last_commit": "2023-09-12T08:58:22Z",
+                "owner": "NicoWeio",
+                "repo": "aw-watcher-atom",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AwWatcherNetBeans82",
+              "description": "NetBeans 8.2 by @pytlus93",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 444918566,
+                "language": "Java",
+                "last_commit": "2022-04-11T08:11:16Z",
+                "owner": "pytlus93",
+                "repo": "AwWatcherNetBeans82",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Editor Watchers :pencil2:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aw-watcher-spotify",
+              "description": "Tracks currently playing Spotify tracks (Beta)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91162971,
+                "language": "Python",
+                "last_commit": "2026-05-24T12:05:28Z",
+                "owner": "ActivityWatch",
+                "repo": "aw-watcher-spotify",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-media-player",
+              "description": "Tracks system-wide media playback",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 711075382,
+                "language": "Rust",
+                "last_commit": "2026-04-25T02:29:03Z",
+                "owner": "2e3s",
+                "repo": "aw-watcher-media-player",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-lastfm",
+              "description": "Tracks Last.fm scrobbles (supports most streaming services)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 784746575,
+                "language": "Rust",
+                "last_commit": "2026-08-16T12:21:53Z",
+                "owner": "0xbrayo",
+                "repo": "aw-watcher-lastfm",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-mpv-sender",
+              "description": "Tracks currently playing mpv videos (WIP)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 557568864,
+                "language": "Python",
+                "last_commit": "2024-07-20T21:16:56Z",
+                "owner": "RundownRhino",
+                "repo": "aw-watcher-mpv-sender",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-openvr",
+              "description": "For VR applications (WIP)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91165722,
+                "language": "Python",
+                "last_commit": "2017-05-25T13:37:42Z",
+                "owner": "ActivityWatch",
+                "repo": "aw-watcher-openvr",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-chromecast",
+              "description": "For Chromecast devices (WIP)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99146451,
+                "language": "Python",
+                "last_commit": "2017-08-02T18:32:36Z",
+                "owner": "ActivityWatch",
+                "repo": "aw-watcher-chromecast",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Media Watchers :musical_note:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aw-watcher-input",
+              "description": "Tracks keyboard/mouse usage statistics",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315298527,
+                "language": "Python",
+                "last_commit": "2024-10-17T16:38:32Z",
+                "owner": "ActivityWatch",
+                "repo": "aw-watcher-input",
+                "stars": 168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-utilization",
+              "description": "System resource monitoring by @Alwinator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400055223,
+                "language": "Python",
+                "last_commit": "2026-01-08T03:44:13Z",
+                "owner": "Alwinator",
+                "repo": "aw-watcher-utilization",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-tmux",
+              "description": "Monitors tmux sessions by @akohlbecker",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369003047,
+                "language": "Shell",
+                "last_commit": "2024-02-05T14:37:30Z",
+                "owner": "akohlbecker",
+                "repo": "aw-watcher-tmux",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-ask",
+              "description": "Periodically asks user questions (WIP)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 394011637,
+                "language": "Python",
+                "last_commit": "2023-03-16T20:56:46Z",
+                "owner": "bcbernardo",
+                "repo": "aw-watcher-ask",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-table",
+              "description": "Monitors height-adjustable desk position by @Alwinator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 302690569,
+                "language": "Python",
+                "last_commit": "2023-11-20T11:45:41Z",
+                "owner": "Alwinator",
+                "repo": "aw-watcher-table",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-steam",
+              "description": "Tracks Steam gaming sessions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 640325790,
+                "language": "Python",
+                "last_commit": "2025-06-16T16:56:37Z",
+                "owner": "Edwardsoen",
+                "repo": "aw-watcher-steam",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-anki",
+              "description": "Tracks Anki flashcard review time",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 552380619,
+                "language": "Python",
+                "last_commit": "2023-11-02T21:51:56Z",
+                "owner": "abdnh",
+                "repo": "aw-watcher-anki",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-netstatus",
+              "description": "Network connectivity monitoring by @sameersismail",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 594948527,
+                "language": "Python",
+                "last_commit": "2023-01-31T00:38:14Z",
+                "owner": "sameersismail",
+                "repo": "aw-watcher-netstatus",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-toggl",
+              "description": "Imports time entries from Toggl",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 699153344,
+                "language": "Python",
+                "last_commit": "2025-10-04T23:48:21Z",
+                "owner": "RTnhN",
+                "repo": "aw-watcher-toggl",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-screenshot",
+              "description": "Periodic screenshot capture with perceptual hash filtering and optional S3 upload",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1130109102,
+                "language": "Rust",
+                "last_commit": "2026-01-08T09:27:19Z",
+                "owner": "InertialG",
+                "repo": "aw-watcher-screenshot",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-buttons",
+              "description": "Arduino-based hardware button tracking (WIP)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 847136213,
+                "language": "Python",
+                "last_commit": "2026-01-04T02:09:02Z",
+                "owner": "RTnhN",
+                "repo": "aw-watcher-buttons",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "We also maintain a list of watchers in the documentation.\nWant to create your own watcher? Check out the writing watchers guide in the documentation.\nHave you written a watcher? Submit a PR to have it included here!",
+          "node_type": "group",
+          "title": "Other Watchers :gear:"
         }
       ],
-      "title": "Window Watchers :desktop_computer:"
+      "title": "Watchers :watch:"
     },
     {
-      "description": "",
+      "description": "Tools for migrating historical time tracking data from other tools into ActivityWatch:",
       "items": [
         {
           "node_type": "item",
-          "title": "aw-watcher-vscode",
-          "description": "Visual Studio Code extension by @Otto-AA",
+          "title": "aw-import-screentime",
+          "description": "Import macOS Screen Time data into ActivityWatch (official)",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-01-12T09:13:46Z",
-            "owner": "ActivityWatch",
-            "repo": "aw-watcher-vscode",
-            "stars": 278
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-vim",
-          "description": "Vim extension by @johan-bjareholt and @ahnlabb",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim Script",
-            "last_commit": "2023-10-09T16:44:14Z",
-            "owner": "ActivityWatch",
-            "repo": "aw-watcher-vim",
-            "stars": 123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-obsidian",
-          "description": "Obsidian.md extension by @LordGrimmauld",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-02-23T12:04:45Z",
-            "owner": "LordGrimmauld",
-            "repo": "aw-watcher-obsidian",
-            "stars": 112
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "activity-watch-mode",
-          "description": "Emacs mode by @pauldub",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Emacs Lisp",
-            "last_commit": "2026-03-18T19:08:36Z",
-            "owner": "pauldub",
-            "repo": "activity-watch-mode",
-            "stars": 88
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-jetbrains",
-          "description": "For all JetBrains IDEs by @OlivierMary (JetBrains Marketplace)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-07-08T23:06:58Z",
-            "owner": "OlivierMary",
-            "repo": "aw-watcher-jetbrains",
-            "stars": 88
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ActivityWatchVS",
-          "description": "Visual Studio extension by @LaggAt",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-01-07T08:05:30Z",
-            "owner": "LaggAt",
-            "repo": "ActivityWatchVS",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-sublime",
-          "description": "Sublime Text 3 by @kostasdizas",
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "id": 357474788,
             "language": "Python",
-            "last_commit": "2025-05-27T07:03:58Z",
-            "owner": "kostasdizas",
-            "repo": "aw-watcher-sublime",
-            "stars": 17
+            "last_commit": "2026-07-27T06:02:48Z",
+            "owner": "ActivityWatch",
+            "repo": "aw-import-screentime",
+            "stars": 83
           }
         },
         {
           "node_type": "item",
-          "title": "aw-idea",
-          "description": "JetBrains IDE extension by @pascalwhoop (WIP)",
+          "title": "aw-import-toggl",
+          "description": "Import Toggl Track time entries from CSV export into ActivityWatch",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Java",
-            "last_commit": "2018-12-04T22:09:39Z",
-            "owner": "pascalwhoop",
-            "repo": "aw-idea",
-            "stars": 12
+            "id": 1178482090,
+            "language": "Python",
+            "last_commit": "2026-03-11T04:09:05Z",
+            "owner": "TimeToBuildBob",
+            "repo": "aw-import-toggl",
+            "stars": 0
           }
         },
         {
           "node_type": "item",
-          "title": "aw-watcher-atom",
-          "description": "Atom by @NicoWeio",
+          "title": "aw-import-rescuetime",
+          "description": "Import RescueTime activity data from CSV export into ActivityWatch",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-09-12T08:58:22Z",
-            "owner": "NicoWeio",
-            "repo": "aw-watcher-atom",
-            "stars": 11
+            "id": 1178552270,
+            "language": "Python",
+            "last_commit": "2026-03-11T06:07:45Z",
+            "owner": "TimeToBuildBob",
+            "repo": "aw-import-rescuetime",
+            "stars": 0
           }
         },
         {
           "node_type": "item",
-          "title": "AwWatcherNetBeans82",
-          "description": "NetBeans 8.2 by @pytlus93",
+          "title": "aw-import-manictime",
+          "description": "Import ManicTime data directly from its SQLite database into ActivityWatch",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Java",
-            "last_commit": "2022-04-11T08:11:16Z",
-            "owner": "pytlus93",
-            "repo": "AwWatcherNetBeans82",
+            "id": 1178646803,
+            "language": "Python",
+            "last_commit": "2026-03-11T08:19:57Z",
+            "owner": "TimeToBuildBob",
+            "repo": "aw-import-manictime",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aw-import-clockify",
+          "description": "Import Clockify time entries via API into ActivityWatch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1178687101,
+            "language": "Python",
+            "last_commit": "2026-03-11T09:11:37Z",
+            "owner": "TimeToBuildBob",
+            "repo": "aw-import-clockify",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aw-import-harvest",
+          "description": "Import Harvest time entries via API into ActivityWatch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1178699999,
+            "language": "Python",
+            "last_commit": "2026-03-11T09:26:56Z",
+            "owner": "TimeToBuildBob",
+            "repo": "aw-import-harvest",
             "stars": 0
           }
         }
       ],
-      "title": "Editor Watchers :pencil2:"
+      "title": "Importers :inbox_tray:"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "aw-watcher-spotify",
-          "description": "Tracks currently playing Spotify tracks (Beta)",
+          "title": "aw-sync",
+          "description": ", the official sync-with-folder/bring-your-own-sync solution for ActivityWatch",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-24T12:05:28Z",
-            "owner": "ActivityWatch",
-            "repo": "aw-watcher-spotify",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-media-player",
-          "description": "Tracks system-wide media playback",
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "id": 152148256,
             "language": "Rust",
-            "last_commit": "2026-04-25T02:29:03Z",
-            "owner": "2e3s",
-            "repo": "aw-watcher-media-player",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-lastfm",
-          "description": "Tracks Last.fm scrobbles (supports most streaming services)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T12:21:53Z",
-            "owner": "0xbrayo",
-            "repo": "aw-watcher-lastfm",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-mpv-sender",
-          "description": "Tracks currently playing mpv videos (WIP)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-20T21:16:56Z",
-            "owner": "RundownRhino",
-            "repo": "aw-watcher-mpv-sender",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-openvr",
-          "description": "For VR applications (WIP)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-05-25T13:37:42Z",
+            "last_commit": "2026-08-10T14:36:59Z",
             "owner": "ActivityWatch",
-            "repo": "aw-watcher-openvr",
+            "repo": "aw-server-rust",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aw-sync-suite",
+          "description": ", a centralized sync solution backed by Prometheus and visualized with Grafana, by @phrp720",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 872381413,
+            "language": "Go",
+            "last_commit": "2026-08-03T06:05:07Z",
+            "owner": "phrp720",
+            "repo": "aw-sync-suite",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activitywatch-exporter",
+          "description": ", CLI tool that uploads the ActivityWatch data from the aw-server API to InfluxDB on a daily basis",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 948975125,
+            "language": "Go",
+            "last_commit": "2026-05-20T16:38:31Z",
+            "owner": "rare-magma",
+            "repo": "activitywatch-exporter",
             "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-chromecast",
-          "description": "For Chromecast devices (WIP)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-08-02T18:32:36Z",
-            "owner": "ActivityWatch",
-            "repo": "aw-watcher-chromecast",
-            "stars": 5
           }
         }
       ],
-      "title": "Media Watchers :musical_note:"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "aw-watcher-input",
-          "description": "Tracks keyboard/mouse usage statistics",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-17T16:38:32Z",
-            "owner": "ActivityWatch",
-            "repo": "aw-watcher-input",
-            "stars": 168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-utilization",
-          "description": "System resource monitoring by @Alwinator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-08T03:44:13Z",
-            "owner": "Alwinator",
-            "repo": "aw-watcher-utilization",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-tmux",
-          "description": "Monitors tmux sessions by @akohlbecker",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-02-05T14:37:30Z",
-            "owner": "akohlbecker",
-            "repo": "aw-watcher-tmux",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-ask",
-          "description": "Periodically asks user questions (WIP)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-16T20:56:46Z",
-            "owner": "bcbernardo",
-            "repo": "aw-watcher-ask",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-table",
-          "description": "Monitors height-adjustable desk position by @Alwinator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-11-20T11:45:41Z",
-            "owner": "Alwinator",
-            "repo": "aw-watcher-table",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-steam",
-          "description": "Tracks Steam gaming sessions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-16T16:56:37Z",
-            "owner": "Edwardsoen",
-            "repo": "aw-watcher-steam",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-anki",
-          "description": "Tracks Anki flashcard review time",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-11-02T21:51:56Z",
-            "owner": "abdnh",
-            "repo": "aw-watcher-anki",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-netstatus",
-          "description": "Network connectivity monitoring by @sameersismail",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-01-31T00:38:14Z",
-            "owner": "sameersismail",
-            "repo": "aw-watcher-netstatus",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-toggl",
-          "description": "Imports time entries from Toggl",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-04T23:48:21Z",
-            "owner": "RTnhN",
-            "repo": "aw-watcher-toggl",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-screenshot",
-          "description": "Periodic screenshot capture with perceptual hash filtering and optional S3 upload",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-01-08T09:27:19Z",
-            "owner": "InertialG",
-            "repo": "aw-watcher-screenshot",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aw-watcher-buttons",
-          "description": "Arduino-based hardware button tracking (WIP)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-04T02:09:02Z",
-            "owner": "RTnhN",
-            "repo": "aw-watcher-buttons",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Other Watchers :gear:"
+      "title": "Sync"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:06:34.866Z",
+    "last_updated": "2026-08-19T12:15:23.982Z",
     "original_repository": "ActivityWatch/awesome-activitywatch",
+    "original_repository_id": 634528093,
     "original_repository_sha": "de2e6d0a38b34a84b5ca5e399e5dc2d525c58e4a",
     "enhanced_repository": "enhansome/enhansome-activitywatch",
     "enhanced_repository_description": null,
