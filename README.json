@@ -12,10 +12,10 @@
             "archived": false,
             "id": 57224308,
             "language": "Python",
-            "last_commit": "2026-08-19T17:00:12Z",
+            "last_commit": "2026-08-20T18:29:39Z",
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18645
+            "stars": 18652
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 626593689,
             "language": "Rust",
-            "last_commit": "2026-08-03T19:18:47Z",
+            "last_commit": "2026-08-20T16:26:36Z",
             "owner": "ActivityWatch",
             "repo": "aw-tauri",
             "stars": 62
@@ -132,7 +132,7 @@
             "last_commit": "2026-07-23T11:07:18Z",
             "owner": "ActivityWatch",
             "repo": "aw-client",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -566,7 +566,7 @@
                 "last_commit": "2023-03-16T20:56:46Z",
                 "owner": "bcbernardo",
                 "repo": "aw-watcher-ask",
-                "stars": 89
+                "stars": 90
               }
             },
             {
@@ -831,7 +831,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:01:53.759Z",
+    "last_updated": "2026-08-20T19:09:54.911Z",
     "original_repository": "ActivityWatch/awesome-activitywatch",
     "original_repository_id": 634528093,
     "original_repository_sha": "de2e6d0a38b34a84b5ca5e399e5dc2d525c58e4a",
