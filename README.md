@@ -20,7 +20,7 @@ This list is just getting started. *Do you see anything missing? [Make a pull re
 
 The main ActivityWatch application and alternative implementations:
 
-* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 18,652 | 🐛 185 | 🌐 Python | 📅 2026-08-20) - The official distribution, includes:
+* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 18,662 | 🐛 185 | 🌐 Python | 📅 2026-08-20) - The official distribution, includes:
   * aw-qt (tray application)
   * aw-server & aw-server-rust (storage and API)
   * aw-watcher-window (window tracking)
@@ -51,7 +51,7 @@ ActivityWatch has a modular architecture that includes a server component for st
 The ActivityWatch ecosystem provides client libraries to help developers interact with the ActivityWatch server API and create custom watchers, integrations, extensions, or applications. Here are the official client libraries:
 
 * [aw-client-rust](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-client-rust) ⭐ 312 | 🐛 61 | 🌐 Rust | 📅 2026-08-10, a client library written in Rust
-* [aw-client](https://github.com/ActivityWatch/aw-client) ⭐ 68 | 🐛 14 | 🌐 Python | 📅 2026-07-23, a client library written in Python
+* [aw-client](https://github.com/ActivityWatch/aw-client) ⭐ 68 | 🐛 15 | 🌐 Python | 📅 2026-07-23, a client library written in Python
 * [aw-client-js](https://github.com/ActivityWatch/aw-client-js) ⭐ 40 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-28, a client library written in JavaScript/TypeScript
 
 # Desktop Widgets :desktop\_computer:
@@ -68,7 +68,7 @@ ActivityWatch comes with two watchers enabled by default:
 
 ## Window Watchers :desktop\_computer:
 
-* [awatcher](https://github.com/2e3s/awatcher) ⭐ 302 | 🐛 33 | 🌐 Rust | 📅 2026-07-31 - A compiled watcher for X11 and Wayland by @2e3s
+* [awatcher](https://github.com/2e3s/awatcher) ⭐ 299 | 🐛 33 | 🌐 Rust | 📅 2026-07-31 - A compiled watcher for X11 and Wayland by @2e3s
 * [aw-watcher-window](https://github.com/ActivityWatch/aw-watcher-window) ⭐ 127 | 🐛 34 | 🌐 Python | 📅 2026-08-17 - The official window watcher for Windows, macOS, and Linux (X11)
 * [aw-watcher-window-wayland](https://github.com/ActivityWatch/aw-watcher-window-wayland) ⭐ 101 | 🐛 16 | 🌐 Rust | 📅 2026-06-29 - Window watcher for Wayland by @johan-bjareholt
 * [aw-watcher-enhanced](https://github.com/kepptic/aw-watcher-enhanced) ⭐ 7 | 🐛 2 | 🌐 Rust | 📅 2026-03-10 - Enhanced window watcher with OCR screen capture, LLM-powered context extraction (via Ollama), smart idle detection, and remote desktop support by @kepptic
@@ -79,9 +79,9 @@ ActivityWatch comes with two watchers enabled by default:
 
 ## Editor Watchers :pencil2:
 
-* [aw-watcher-vscode](https://github.com/ActivityWatch/aw-watcher-vscode) ⭐ 278 | 🐛 22 | 🌐 TypeScript | 📅 2024-01-12 - Visual Studio Code extension by @Otto-AA
+* [aw-watcher-vscode](https://github.com/ActivityWatch/aw-watcher-vscode) ⭐ 279 | 🐛 22 | 🌐 TypeScript | 📅 2024-01-12 - Visual Studio Code extension by @Otto-AA
 * [aw-watcher-vim](https://github.com/ActivityWatch/aw-watcher-vim) ⭐ 123 | 🐛 5 | 🌐 Vim Script | 📅 2023-10-09 - Vim extension by @johan-bjareholt and @ahnlabb
-* [aw-watcher-obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian) ⭐ 112 | 🐛 9 | 🌐 TypeScript | 📅 2023-02-23 - Obsidian.md extension by @LordGrimmauld
+* [aw-watcher-obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian) ⭐ 113 | 🐛 9 | 🌐 TypeScript | 📅 2023-02-23 - Obsidian.md extension by @LordGrimmauld
 * [activity-watch-mode](https://github.com/pauldub/activity-watch-mode) ⭐ 88 | 🐛 8 | 🌐 Emacs Lisp | 📅 2026-03-18 - Emacs mode by @pauldub
 * [aw-watcher-jetbrains](https://github.com/OlivierMary/aw-watcher-jetbrains) ⭐ 88 | 🐛 8 | 🌐 Java | 📅 2024-07-08 - For all JetBrains IDEs by @OlivierMary ([JetBrains Marketplace](https://plugins.jetbrains.com/plugin/11361-activity-watcher))
 * [ActivityWatchVS](https://github.com/LaggAt/ActivityWatchVS) ⭐ 35 | 🐛 6 | 🌐 C# | 📅 2025-01-07 - Visual Studio extension by @LaggAt
@@ -92,7 +92,7 @@ ActivityWatch comes with two watchers enabled by default:
 
 ## Media Watchers :musical\_note:
 
-* [aw-watcher-spotify](https://github.com/ActivityWatch/aw-watcher-spotify) ⭐ 87 | 🐛 13 | 🌐 Python | 📅 2026-05-24 - Tracks currently playing Spotify tracks (Beta)
+* [aw-watcher-spotify](https://github.com/ActivityWatch/aw-watcher-spotify) ⭐ 88 | 🐛 13 | 🌐 Python | 📅 2026-05-24 - Tracks currently playing Spotify tracks (Beta)
 * [aw-watcher-media-player](https://github.com/2e3s/aw-watcher-media-player) ⭐ 75 | 🐛 5 | 🌐 Rust | 📅 2026-04-25 - Tracks system-wide media playback
 * [aw-watcher-lastfm](https://github.com/brayo-pip/aw-watcher-lastfm) ⭐ 15 | 🐛 0 | 🌐 Rust | 📅 2026-08-16 - Tracks Last.fm scrobbles (supports most streaming services)
 * [aw-watcher-mpv-sender](https://github.com/RundownRhino/aw-watcher-mpv-sender) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2024-07-20 - Tracks currently playing mpv videos (WIP)
@@ -104,7 +104,7 @@ ActivityWatch comes with two watchers enabled by default:
 * [aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input) ⭐ 168 | 🐛 21 | 🌐 Python | 📅 2024-10-17 - Tracks keyboard/mouse usage statistics
 * [aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) ⭐ 109 | 🐛 10 | 🌐 Python | 📅 2026-01-08 - System resource monitoring by @Alwinator
 * [aw-watcher-tmux](https://github.com/akohlbecker/aw-watcher-tmux) ⭐ 94 | 🐛 3 | 🌐 Shell | 📅 2024-02-05 - Monitors tmux sessions by @akohlbecker
-* [aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) ⭐ 90 | 🐛 3 | 🌐 Python | 📅 2023-03-16 - Periodically asks user questions (WIP)
+* [aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) ⭐ 91 | 🐛 3 | 🌐 Python | 📅 2023-03-16 - Periodically asks user questions (WIP)
 * [aw-watcher-table](https://github.com/Alwinator/aw-watcher-table) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2023-11-20 - Monitors height-adjustable desk position by @Alwinator
 * [aw-watcher-steam](https://github.com/Edwardsoen/aw-watcher-steam) ⭐ 38 | 🐛 6 | 🌐 Python | 📅 2025-06-16 - Tracks Steam gaming sessions
 * [aw-watcher-anki](https://github.com/abdnh/aw-watcher-anki) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2023-11-02 - Tracks Anki flashcard review time
@@ -123,7 +123,7 @@ Have you written a watcher? Submit a PR to have it included here!
 
 Tools for migrating historical time tracking data from other tools into ActivityWatch:
 
-* [aw-import-screentime](https://github.com/ActivityWatch/aw-import-screentime) ⭐ 83 | 🐛 6 | 🌐 Python | 📅 2026-07-27 - Import macOS Screen Time data into ActivityWatch (official)
+* [aw-import-screentime](https://github.com/ActivityWatch/aw-import-screentime) ⭐ 84 | 🐛 6 | 🌐 Python | 📅 2026-07-27 - Import macOS Screen Time data into ActivityWatch (official)
 * [aw-import-toggl](https://github.com/TimeToBuildBob/aw-import-toggl) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-11 - Import Toggl Track time entries from CSV export into ActivityWatch
 * [aw-import-rescuetime](https://github.com/TimeToBuildBob/aw-import-rescuetime) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-11 - Import RescueTime activity data from CSV export into ActivityWatch
 * [aw-import-manictime](https://github.com/TimeToBuildBob/aw-import-manictime) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-11 - Import ManicTime data directly from its SQLite database into ActivityWatch
@@ -133,7 +133,7 @@ Tools for migrating historical time tracking data from other tools into Activity
 # Sync
 
 * [aw-sync](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-sync) ⭐ 312 | 🐛 61 | 🌐 Rust | 📅 2026-08-10, the official sync-with-folder/bring-your-own-sync solution for ActivityWatch
-* [aw-sync-suite](https://github.com/phrp720/aw-sync-suite) ⭐ 39 | 🐛 1 | 🌐 Go | 📅 2026-08-03, a centralized sync solution backed by Prometheus and visualized with Grafana, by @phrp720
+* [aw-sync-suite](https://github.com/phrp720/aw-sync-suite) ⭐ 39 | 🐛 1 | 🌐 Go | 📅 2026-08-21, a centralized sync solution backed by Prometheus and visualized with Grafana, by @phrp720
 * [activitywatch-exporter](https://github.com/rare-magma/activitywatch-exporter) ⚠️ Archived, CLI tool that uploads the ActivityWatch data from the aw-server API to InfluxDB on a daily basis
 
 # AI/LLM Integrations 🤖
@@ -166,11 +166,11 @@ Thank you for supporting ActivityWatch and helping it stay afloat financially as
 
 # Other links :link:
 
-* [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) ⭐ 2,759 | 🐛 37 | 📅 2026-07-06, a list of awesome quantified self resources
+* [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) ⭐ 2,760 | 🐛 37 | 📅 2026-07-06, a list of awesome quantified self resources
 * [Superuser Labs](https://superuserlabs.org/), company owned and run by founder Erik Bjäreholt for consulting and other ActivityWatch-related services (among other things).
   * [LinkedIn](https://www.linkedin.com/company/superuser-labs/)
   * [Twitter](https://twitter.com/SuperusrLabs)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

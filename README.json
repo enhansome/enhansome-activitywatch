@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T18:29:39Z",
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18652
+            "stars": 18662
           }
         },
         {
@@ -200,7 +200,7 @@
                 "last_commit": "2026-07-31T21:44:16Z",
                 "owner": "2e3s",
                 "repo": "awatcher",
-                "stars": 302
+                "stars": 299
               }
             },
             {
@@ -267,7 +267,7 @@
                 "last_commit": "2024-01-12T09:13:46Z",
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-vscode",
-                "stars": 278
+                "stars": 279
               }
             },
             {
@@ -297,7 +297,7 @@
                 "last_commit": "2023-02-23T12:04:45Z",
                 "owner": "LordGrimmauld",
                 "repo": "aw-watcher-obsidian",
-                "stars": 112
+                "stars": 113
               }
             },
             {
@@ -424,7 +424,7 @@
                 "last_commit": "2026-05-24T12:05:28Z",
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-spotify",
-                "stars": 87
+                "stars": 88
               }
             },
             {
@@ -566,7 +566,7 @@
                 "last_commit": "2023-03-16T20:56:46Z",
                 "owner": "bcbernardo",
                 "repo": "aw-watcher-ask",
-                "stars": 90
+                "stars": 91
               }
             },
             {
@@ -697,7 +697,7 @@
             "last_commit": "2026-07-27T06:02:48Z",
             "owner": "ActivityWatch",
             "repo": "aw-import-screentime",
-            "stars": 83
+            "stars": 84
           }
         },
         {
@@ -805,7 +805,7 @@
             "archived": false,
             "id": 872381413,
             "language": "Go",
-            "last_commit": "2026-08-03T06:05:07Z",
+            "last_commit": "2026-08-21T06:03:59Z",
             "owner": "phrp720",
             "repo": "aw-sync-suite",
             "stars": 39
@@ -831,7 +831,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:09:54.911Z",
+    "last_updated": "2026-08-21T19:05:53.954Z",
     "original_repository": "ActivityWatch/awesome-activitywatch",
     "original_repository_id": 634528093,
     "original_repository_sha": "de2e6d0a38b34a84b5ca5e399e5dc2d525c58e4a",
