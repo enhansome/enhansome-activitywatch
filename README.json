@@ -12,10 +12,10 @@
             "archived": false,
             "id": 57224308,
             "language": "Python",
-            "last_commit": "2026-08-22T15:38:15Z",
+            "last_commit": "2026-08-23T10:00:01Z",
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18675
+            "stars": 18688
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 626593689,
             "language": "Rust",
-            "last_commit": "2026-08-20T16:26:36Z",
+            "last_commit": "2026-08-22T20:19:14Z",
             "owner": "ActivityWatch",
             "repo": "aw-tauri",
             "stars": 62
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 152148256,
             "language": "Rust",
-            "last_commit": "2026-08-10T14:36:59Z",
+            "last_commit": "2026-08-23T10:29:11Z",
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 312
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 152148256,
             "language": "Rust",
-            "last_commit": "2026-08-10T14:36:59Z",
+            "last_commit": "2026-08-23T10:29:11Z",
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 312
@@ -129,7 +129,7 @@
             "archived": false,
             "id": 56850164,
             "language": "Python",
-            "last_commit": "2026-07-23T11:07:18Z",
+            "last_commit": "2026-08-23T09:47:43Z",
             "owner": "ActivityWatch",
             "repo": "aw-client",
             "stars": 68
@@ -165,7 +165,7 @@
             "archived": false,
             "id": 66086574,
             "language": "Python",
-            "last_commit": "2026-08-17T11:48:15Z",
+            "last_commit": "2026-08-23T09:38:59Z",
             "owner": "ActivityWatch",
             "repo": "aw-watcher-window",
             "stars": 127
@@ -212,7 +212,7 @@
                 "archived": false,
                 "id": 66086574,
                 "language": "Python",
-                "last_commit": "2026-08-17T11:48:15Z",
+                "last_commit": "2026-08-23T09:38:59Z",
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-window",
                 "stars": 127
@@ -790,7 +790,7 @@
             "archived": false,
             "id": 152148256,
             "language": "Rust",
-            "last_commit": "2026-08-10T14:36:59Z",
+            "last_commit": "2026-08-23T10:29:11Z",
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 312
@@ -831,7 +831,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:56:12.415Z",
+    "last_updated": "2026-08-23T18:55:47.696Z",
     "original_repository": "ActivityWatch/awesome-activitywatch",
     "original_repository_id": 634528093,
     "original_repository_sha": "de2e6d0a38b34a84b5ca5e399e5dc2d525c58e4a",
