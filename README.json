@@ -15,7 +15,7 @@
             "last_commit": "2026-08-23T10:00:01Z",
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18688
+            "stars": 18691
           }
         },
         {
@@ -252,6 +252,28 @@
           "description": null,
           "node_type": "group",
           "title": "Window Watchers :desktop_computer:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aw-watcher-web",
+              "description": "Official browser extension for Chrome, Edge, and Firefox",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79119055,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T12:17:43Z",
+                "owner": "ActivityWatch",
+                "repo": "aw-watcher-web",
+                "stars": 558
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Browser Watchers :globe_with_meridians:"
         },
         {
           "children": [
@@ -611,7 +633,7 @@
                 "last_commit": "2023-11-02T21:51:56Z",
                 "owner": "abdnh",
                 "repo": "aw-watcher-anki",
-                "stars": 33
+                "stars": 34
               }
             },
             {
@@ -831,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:55:47.696Z",
+    "last_updated": "2026-08-24T14:37:45.538Z",
     "original_repository": "ActivityWatch/awesome-activitywatch",
     "original_repository_id": 634528093,
     "original_repository_sha": "de2e6d0a38b34a84b5ca5e399e5dc2d525c58e4a",
