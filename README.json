@@ -15,7 +15,7 @@
             "last_commit": "2026-08-23T10:00:01Z",
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18693
+            "stars": 18702
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 152148256,
             "language": "Rust",
-            "last_commit": "2026-08-23T10:29:11Z",
+            "last_commit": "2026-08-24T19:47:50Z",
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 312
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 152148256,
             "language": "Rust",
-            "last_commit": "2026-08-23T10:29:11Z",
+            "last_commit": "2026-08-24T19:47:50Z",
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 312
@@ -267,7 +267,7 @@
                 "last_commit": "2026-08-16T12:17:43Z",
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-web",
-                "stars": 558
+                "stars": 559
               }
             }
           ],
@@ -812,7 +812,7 @@
             "archived": false,
             "id": 152148256,
             "language": "Rust",
-            "last_commit": "2026-08-23T10:29:11Z",
+            "last_commit": "2026-08-24T19:47:50Z",
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 312
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:09:03.738Z",
+    "last_updated": "2026-08-25T06:27:02.789Z",
     "original_repository": "ActivityWatch/awesome-activitywatch",
     "original_repository_id": 634528093,
     "original_repository_sha": "de2e6d0a38b34a84b5ca5e399e5dc2d525c58e4a",
