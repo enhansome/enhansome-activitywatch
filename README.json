@@ -12,10 +12,10 @@
             "archived": false,
             "id": 57224308,
             "language": "Python",
-            "last_commit": "2026-08-23T10:00:01Z",
+            "last_commit": "2026-08-26T14:45:09Z",
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18711
+            "stars": 18720
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 152148256,
             "language": "Rust",
-            "last_commit": "2026-08-25T12:14:29Z",
+            "last_commit": "2026-08-26T14:49:01Z",
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 312
@@ -96,7 +96,7 @@
             "last_commit": "2026-07-28T20:16:12Z",
             "owner": "ActivityWatch",
             "repo": "aw-server",
-            "stars": 124
+            "stars": 125
           }
         }
       ],
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 152148256,
             "language": "Rust",
-            "last_commit": "2026-08-25T12:14:29Z",
+            "last_commit": "2026-08-26T14:49:01Z",
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 312
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-23T09:47:43Z",
             "owner": "ActivityWatch",
             "repo": "aw-client",
-            "stars": 68
+            "stars": 69
           }
         },
         {
@@ -267,7 +267,7 @@
                 "last_commit": "2026-08-16T12:17:43Z",
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-web",
-                "stars": 559
+                "stars": 560
               }
             }
           ],
@@ -812,7 +812,7 @@
             "archived": false,
             "id": 152148256,
             "language": "Rust",
-            "last_commit": "2026-08-25T12:14:29Z",
+            "last_commit": "2026-08-26T14:49:01Z",
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 312
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:07:33.876Z",
+    "last_updated": "2026-08-26T20:28:09.467Z",
     "original_repository": "ActivityWatch/awesome-activitywatch",
     "original_repository_id": 634528093,
     "original_repository_sha": "de2e6d0a38b34a84b5ca5e399e5dc2d525c58e4a",
