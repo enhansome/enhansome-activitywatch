@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T14:45:09Z",
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18728
+            "stars": 18730
           }
         },
         {
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:18:08.436Z",
+    "last_updated": "2026-08-28T02:15:17.277Z",
     "original_repository_info": {
       "archived": false,
       "id": 634528093,
@@ -861,7 +861,7 @@
       "last_commit": "2026-03-11T15:31:52Z",
       "owner": "ActivityWatch",
       "repo": "awesome-activitywatch",
-      "stars": 174
+      "stars": 175
     },
     "original_repository_sha": "de2e6d0a38b34a84b5ca5e399e5dc2d525c58e4a",
     "enhanced_repository": "enhansome/enhansome-activitywatch",
