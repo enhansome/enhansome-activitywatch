@@ -15,11 +15,11 @@
             "id": 57224308,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-26T14:45:09Z",
-            "open_issues": 183,
+            "last_commit": "2026-08-29T18:43:05Z",
+            "open_issues": 185,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18738,
+            "stars": 18744,
             "topics": [
               "activitywatch",
               "afk",
@@ -121,7 +121,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-08-26T14:49:01Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 312,
@@ -182,7 +182,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-08-26T14:49:01Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 312,
@@ -271,7 +271,7 @@
             "open_issues": 36,
             "owner": "ActivityWatch",
             "repo": "aw-watcher-window",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "active-window",
               "activitywatch",
@@ -322,7 +322,7 @@
                 "language": "Rust",
                 "license": "MPL-2.0",
                 "last_commit": "2026-07-31T21:44:16Z",
-                "open_issues": 33,
+                "open_issues": 32,
                 "owner": "2e3s",
                 "repo": "awatcher",
                 "stars": 300,
@@ -350,7 +350,7 @@
                 "open_issues": 36,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-window",
-                "stars": 127,
+                "stars": 128,
                 "topics": [
                   "active-window",
                   "activitywatch",
@@ -893,7 +893,7 @@
                 "open_issues": 3,
                 "owner": "akohlbecker",
                 "repo": "aw-watcher-tmux",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -1230,7 +1230,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-08-26T14:49:01Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 312,
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:54:29.374Z",
+    "last_updated": "2026-08-29T21:03:04.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
