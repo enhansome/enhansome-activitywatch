@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+            "homepage": "https://activitywatch.net/",
             "id": 57224308,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-26T14:45:09Z",
+            "open_issues": 183,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18738
+            "stars": 18738,
+            "topics": [
+              "activitywatch",
+              "afk",
+              "analytics",
+              "app",
+              "cross-platform",
+              "dashboard",
+              "productivity",
+              "quantified-self",
+              "time-tracker",
+              "time-tracking",
+              "timetracker",
+              "timetracking"
+            ]
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         },
@@ -26,12 +44,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WIP ActivityWatch distribution using Tauri",
+            "homepage": null,
             "id": 626593689,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-22T20:19:14Z",
+            "open_issues": 20,
             "owner": "ActivityWatch",
             "repo": "aw-tauri",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         },
@@ -42,12 +65,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UI for ActivityWatch. Include category editor and viewer for multiple categorizations. ",
+            "homepage": null,
             "id": 730975665,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2024-01-31T06:13:06Z",
+            "open_issues": 6,
             "owner": "K-Kuyama",
             "repo": "yet-another-UI-for-AW",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         },
@@ -58,12 +86,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 622866743,
             "language": "Svelte",
+            "license": null,
             "last_commit": "2023-06-05T16:29:28Z",
+            "open_issues": 5,
             "owner": "jpcafe10",
             "repo": "codewatch",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "tauri-app"
+            ]
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         }
@@ -80,12 +115,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance implementation of the ActivityWatch server, written in Rust",
+            "homepage": null,
             "id": 152148256,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-26T14:49:01Z",
+            "open_issues": 66,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 312
+            "stars": 312,
+            "topics": [
+              "activitywatch",
+              "rest-api",
+              "rust",
+              "server",
+              "sync",
+              "timetracking"
+            ]
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         },
@@ -96,12 +143,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ActivityWatch server for storage of all your Quantified Self data.",
+            "homepage": null,
             "id": 55904087,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-28T20:16:12Z",
+            "open_issues": 33,
             "owner": "ActivityWatch",
             "repo": "aw-server",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "activitywatch",
+              "python",
+              "rest-api",
+              "server",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         }
@@ -118,12 +176,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance implementation of the ActivityWatch server, written in Rust",
+            "homepage": null,
             "id": 152148256,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-26T14:49:01Z",
+            "open_issues": 66,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 312
+            "stars": 312,
+            "topics": [
+              "activitywatch",
+              "rest-api",
+              "rust",
+              "server",
+              "sync",
+              "timetracking"
+            ]
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         },
@@ -134,12 +204,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Client library for ActivityWatch",
+            "homepage": null,
             "id": 56850164,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-23T09:47:43Z",
+            "open_issues": 15,
             "owner": "ActivityWatch",
             "repo": "aw-client",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "activitywatch",
+              "client",
+              "library",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         },
@@ -150,12 +230,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Client library for ActivityWatch in JavaScript",
+            "homepage": null,
             "id": 57276953,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-28T20:51:29Z",
+            "open_issues": 6,
             "owner": "ActivityWatch",
             "repo": "aw-client-js",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "activitywatch",
+              "javascript",
+              "nodejs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         }
@@ -172,12 +262,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform window watcher (for use with ActivityWatch)",
+            "homepage": null,
             "id": 66086574,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-23T09:38:59Z",
+            "open_issues": 36,
             "owner": "ActivityWatch",
             "repo": "aw-watcher-window",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "active-window",
+              "activitywatch",
+              "activitywatch-watcher",
+              "quantified-self"
+            ]
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         },
@@ -188,12 +288,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Watches keyboard and mouse activity to determine if you are AFK or not (for use with ActivityWatch)",
+            "homepage": null,
             "id": 55364456,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-22T13:01:00Z",
+            "open_issues": 13,
             "owner": "ActivityWatch",
             "repo": "aw-watcher-afk",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "activitywatch",
+              "activitywatch-watcher",
+              "afk",
+              "mouse-activity"
+            ]
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         },
@@ -206,12 +316,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Activity and idle watchers",
+                "homepage": null,
                 "id": 626659549,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2026-07-31T21:44:16Z",
+                "open_issues": 33,
                 "owner": "2e3s",
                 "repo": "awatcher",
-                "stars": 299
+                "stars": 300,
+                "topics": [
+                  "productivity",
+                  "self-tracking",
+                  "time-tracker"
+                ]
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -222,12 +341,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform window watcher (for use with ActivityWatch)",
+                "homepage": null,
                 "id": 66086574,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-23T09:38:59Z",
+                "open_issues": 36,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-window",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "active-window",
+                  "activitywatch",
+                  "activitywatch-watcher",
+                  "quantified-self"
+                ]
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -238,12 +367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Window and AFK watcher for some Wayland compositors",
+                "homepage": null,
                 "id": 213979851,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2026-06-29T17:36:22Z",
+                "open_issues": 16,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-window-wayland",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -254,12 +388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enhanced ActivityWatch watcher with OCR, LLM context extraction, and smart capture",
+                "homepage": null,
                 "id": 1108276608,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2026-03-10T07:15:32Z",
+                "open_issues": 2,
                 "owner": "kepptic",
                 "repo": "aw-watcher-enhanced",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             }
@@ -277,12 +416,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Browser watcher for ActivityWatch",
+                "homepage": null,
                 "id": 79119055,
                 "language": "TypeScript",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-16T12:17:43Z",
+                "open_issues": 51,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-web",
-                "stars": 561
+                "stars": 561,
+                "topics": [
+                  "activitywatch",
+                  "chrome-extension",
+                  "firefox-extension",
+                  "quantified-self",
+                  "time-tracker",
+                  "webextension"
+                ]
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             }
@@ -300,12 +451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 137863325,
                 "language": "TypeScript",
+                "license": "MPL-2.0",
                 "last_commit": "2024-01-12T09:13:46Z",
+                "open_issues": 22,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-vscode",
-                "stars": 279
+                "stars": 279,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -316,12 +472,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 124559515,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2023-10-09T16:44:14Z",
+                "open_issues": 5,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-vim",
-                "stars": 123
+                "stars": 123,
+                "topics": [
+                  "activitywatch-watcher",
+                  "neovim",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -332,12 +497,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Obsidian plugin to track user activity with ActivityWatch",
+                "homepage": null,
                 "id": 589182846,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-02-23T12:04:45Z",
+                "open_issues": 9,
                 "owner": "LordGrimmauld",
                 "repo": "aw-watcher-obsidian",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "activitywatch",
+                  "activitywatch-watcher",
+                  "analytics",
+                  "obsidian",
+                  "obsidian-plugin",
+                  "productivity",
+                  "quantified-self",
+                  "time-tracker",
+                  "time-tracking"
+                ]
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -348,12 +528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Emacs plugin for automatic time tracking and metrics generated from your programming activity.",
+                "homepage": "https://activitywatch.net",
                 "id": 153078690,
                 "language": "Emacs Lisp",
+                "license": null,
                 "last_commit": "2026-03-18T19:08:36Z",
+                "open_issues": 8,
                 "owner": "pauldub",
                 "repo": "activity-watch-mode",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -364,12 +549,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This extension allows the open source tracking tool ActivityWatch to keep track of the projects and coding languages you use in jetbrains IDEs.",
+                "homepage": "https://plugins.jetbrains.com/plugin/11361-activity-watcher",
                 "id": 158618728,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2024-07-08T23:06:58Z",
+                "open_issues": 8,
                 "owner": "OlivierMary",
                 "repo": "aw-watcher-jetbrains",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "activity",
+                  "activitywatch",
+                  "activitywatch-watcher",
+                  "idea",
+                  "idea-plugin",
+                  "jetbrains"
+                ]
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -380,12 +577,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Track your coding - ActivityWatch.net plugin for Visual Studio",
+                "homepage": null,
                 "id": 170216441,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-07T08:05:30Z",
+                "open_issues": 6,
                 "owner": "LaggAt",
                 "repo": "ActivityWatchVS",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -396,12 +598,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sublime Text 3 plugin for automatic time tracking with http://activitywatch.net",
+                "homepage": null,
                 "id": 242415771,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-27T07:03:58Z",
+                "open_issues": 1,
                 "owner": "kostasdizas",
                 "repo": "aw-watcher-sublime",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -412,12 +619,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IntelliJ IDEA, PyCharm, RubyMine, PhpStorm, AppCode, AndroidStudio, Gogland, Rider, & WebStorm plugin for quantifying your coding.",
+                "homepage": "https://wakatime.com/intellij-idea",
                 "id": 159561969,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-12-04T22:09:39Z",
+                "open_issues": 0,
                 "owner": "pascalwhoop",
                 "repo": "aw-idea",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -428,12 +640,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 256544555,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-12T08:58:22Z",
+                "open_issues": 1,
                 "owner": "NicoWeio",
                 "repo": "aw-watcher-atom",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "activitywatch",
+                  "atom-editor",
+                  "atom-plugin",
+                  "time-tracker"
+                ]
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -444,12 +666,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ActivityWatch (https://github.com/ActivityWatch/activitywatch) plugin for NetBeans 8.2",
+                "homepage": null,
                 "id": 444918566,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-04-11T08:11:16Z",
+                "open_issues": 0,
                 "owner": "pytlus93",
                 "repo": "AwWatcherNetBeans82",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             }
@@ -467,12 +694,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Logs what you listen to on Spotify",
+                "homepage": null,
                 "id": 91162971,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-24T12:05:28Z",
+                "open_issues": 13,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-spotify",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "activitywatch",
+                  "activitywatch-watcher",
+                  "spotify",
+                  "spotify-api"
+                ]
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -483,12 +720,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Watcher of system's currently playing media for ActivityWatch",
+                "homepage": null,
                 "id": 711075382,
                 "language": "Rust",
+                "license": "Unlicense",
                 "last_commit": "2026-04-25T02:29:03Z",
+                "open_issues": 5,
                 "owner": "2e3s",
                 "repo": "aw-watcher-media-player",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -499,12 +741,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ActivityWatch watcher for Spotify and Apple Music streaming.",
+                "homepage": null,
                 "id": 784746575,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-16T12:21:53Z",
+                "open_issues": 0,
                 "owner": "0xbrayo",
                 "repo": "aw-watcher-lastfm",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -515,12 +762,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ActivityWatch watcher for mpv",
+                "homepage": null,
                 "id": 557568864,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-20T21:16:56Z",
+                "open_issues": 1,
                 "owner": "RundownRhino",
                 "repo": "aw-watcher-mpv-sender",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -531,12 +783,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WIP] Watcher for OpenVR",
+                "homepage": null,
                 "id": 91165722,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-05-25T13:37:42Z",
+                "open_issues": 0,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-openvr",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "activitywatch",
+                  "activitywatch-watcher",
+                  "openvr"
+                ]
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -547,12 +808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WIP] Chromecast watcher for Activitywatch",
+                "homepage": null,
                 "id": 99146451,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-08-02T18:32:36Z",
+                "open_issues": 2,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-chromecast",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             }
@@ -570,12 +836,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Track your keypresses and mouse movements with ActivityWatch",
+                "homepage": null,
                 "id": 315298527,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-17T16:38:32Z",
+                "open_issues": 21,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-input",
-                "stars": 168
+                "stars": 168,
+                "topics": [
+                  "activitywatch",
+                  "activitywatch-watcher",
+                  "input",
+                  "keyboard-events",
+                  "mouse-events"
+                ]
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -586,12 +863,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Activity Watch watcher that monitors CPU, RAM, disk, network, and sensor usage.",
+                "homepage": null,
                 "id": 400055223,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2026-01-08T03:44:13Z",
+                "open_issues": 10,
                 "owner": "Alwinator",
                 "repo": "aw-watcher-utilization",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -602,12 +884,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 369003047,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2024-02-05T14:37:30Z",
+                "open_issues": 3,
                 "owner": "akohlbecker",
                 "repo": "aw-watcher-tmux",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -618,12 +905,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ActivityWatch watcher to pose questions to the user and record her answers.",
+                "homepage": null,
                 "id": 394011637,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-16T20:56:46Z",
+                "open_issues": 3,
                 "owner": "bcbernardo",
                 "repo": "aw-watcher-ask",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -634,12 +926,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Activity Watch watcher which monitors whether you have set your height-adjustable table to sitting or standing.",
+                "homepage": null,
                 "id": 302690569,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2023-11-20T11:45:41Z",
+                "open_issues": 0,
                 "owner": "Alwinator",
                 "repo": "aw-watcher-table",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -650,12 +947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 640325790,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-16T16:56:37Z",
+                "open_issues": 6,
                 "owner": "Edwardsoen",
                 "repo": "aw-watcher-steam",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -666,12 +968,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ActivityWatch watcher for Anki",
+                "homepage": "https://ankiweb.net/shared/info/567877061",
                 "id": 552380619,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-11-02T21:51:56Z",
+                "open_issues": 1,
                 "owner": "abdnh",
                 "repo": "aw-watcher-anki",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "activitywatch",
+                  "activitywatch-watcher",
+                  "anki",
+                  "anki-addon"
+                ]
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -682,12 +994,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ActivityWatch monitor for observing the network connection status.",
+                "homepage": null,
                 "id": 594948527,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-31T00:38:14Z",
+                "open_issues": 0,
                 "owner": "sameersismail",
                 "repo": "aw-watcher-netstatus",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "activitywatch",
+                  "activitywatch-watcher"
+                ]
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -698,12 +1018,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 699153344,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-28T19:23:27Z",
+                "open_issues": 0,
                 "owner": "RTnhN",
                 "repo": "aw-watcher-toggl",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -714,12 +1039,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive screenshot watcher for ActivityWatch",
+                "homepage": null,
                 "id": 1130109102,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-01-08T09:27:19Z",
+                "open_issues": 0,
                 "owner": "InertialG",
                 "repo": "aw-watcher-screenshot",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -730,12 +1060,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 847136213,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2026-01-04T02:09:02Z",
+                "open_issues": 2,
                 "owner": "RTnhN",
                 "repo": "aw-watcher-buttons",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             }
@@ -757,12 +1092,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Import data from Apple's Screen Time on macOS and iOS to ActivityWatch",
+            "homepage": null,
             "id": 357474788,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-27T06:02:48Z",
+            "open_issues": 6,
             "owner": "ActivityWatch",
             "repo": "aw-import-screentime",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         },
@@ -773,12 +1113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Import Toggl Track time entries into ActivityWatch",
+            "homepage": null,
             "id": 1178482090,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-11T04:09:05Z",
+            "open_issues": 0,
             "owner": "TimeToBuildBob",
             "repo": "aw-import-toggl",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         },
@@ -789,12 +1134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Import RescueTime exports into ActivityWatch",
+            "homepage": null,
             "id": 1178552270,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-11T06:07:45Z",
+            "open_issues": 0,
             "owner": "TimeToBuildBob",
             "repo": "aw-import-rescuetime",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         },
@@ -805,12 +1155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Import ManicTime database into ActivityWatch",
+            "homepage": null,
             "id": 1178646803,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-11T08:19:57Z",
+            "open_issues": 0,
             "owner": "TimeToBuildBob",
             "repo": "aw-import-manictime",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         },
@@ -821,12 +1176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Import Clockify time entries into ActivityWatch",
+            "homepage": null,
             "id": 1178687101,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-11T09:11:37Z",
+            "open_issues": 0,
             "owner": "TimeToBuildBob",
             "repo": "aw-import-clockify",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         },
@@ -837,12 +1197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Import Harvest time entries into ActivityWatch",
+            "homepage": null,
             "id": 1178699999,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-11T09:26:56Z",
+            "open_issues": 0,
             "owner": "TimeToBuildBob",
             "repo": "aw-import-harvest",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         }
@@ -859,12 +1224,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance implementation of the ActivityWatch server, written in Rust",
+            "homepage": null,
             "id": 152148256,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-26T14:49:01Z",
+            "open_issues": 66,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 312
+            "stars": 312,
+            "topics": [
+              "activitywatch",
+              "rest-api",
+              "rust",
+              "server",
+              "sync",
+              "timetracking"
+            ]
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         },
@@ -875,12 +1252,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sync multiple ActivityWatch instances to Prometheus, centralized and visualized with Grafana.",
+            "homepage": null,
             "id": 872381413,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-21T06:03:59Z",
+            "open_issues": 1,
             "owner": "phrp720",
             "repo": "aw-sync-suite",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "activitywatch",
+              "analytics",
+              "as-a-service",
+              "aw-sync-agent",
+              "aw-sync-center",
+              "aw-sync-suite",
+              "cross-platform",
+              "dashboard",
+              "monitoring",
+              "service",
+              "sync",
+              "synchronizer"
+            ]
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         },
@@ -891,12 +1286,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CLI tool that uploads the ActivityWatch data from the aw-server API to influxdb on a daily basis",
+            "homepage": null,
             "id": 948975125,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-20T16:38:31Z",
+            "open_issues": 0,
             "owner": "rare-magma",
             "repo": "activitywatch-exporter",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "activitywatch",
+              "aw-server",
+              "grafana",
+              "grafana-dashboard",
+              "influxdb"
+            ]
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
         }
@@ -905,15 +1311,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:49:08.072Z",
+    "last_updated": "2026-08-29T04:54:29.374Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome ActivityWatch resources",
+      "homepage": null,
       "id": 634528093,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-11T15:31:52Z",
+      "open_issues": 3,
       "owner": "ActivityWatch",
       "repo": "awesome-activitywatch",
-      "stars": 175
+      "stars": 175,
+      "topics": [
+        "activitywatch",
+        "awesome",
+        "awesome-list",
+        "time-tracker",
+        "time-tracking"
+      ]
     },
     "original_repository_sha": "de2e6d0a38b34a84b5ca5e399e5dc2d525c58e4a",
     "enhanced_repository": "enhansome/enhansome-activitywatch",

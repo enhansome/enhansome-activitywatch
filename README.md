@@ -68,7 +68,7 @@ ActivityWatch comes with two watchers enabled by default:
 
 ## Window Watchers :desktop\_computer:
 
-* [awatcher](https://github.com/2e3s/awatcher) ⭐ 299 | 🐛 33 | 🌐 Rust | 📅 2026-07-31 - A compiled watcher for X11 and Wayland by @2e3s
+* [awatcher](https://github.com/2e3s/awatcher) ⭐ 300 | 🐛 33 | 🌐 Rust | 📅 2026-07-31 - A compiled watcher for X11 and Wayland by @2e3s
 * [aw-watcher-window](https://github.com/ActivityWatch/aw-watcher-window) ⭐ 127 | 🐛 36 | 🌐 Python | 📅 2026-08-23 - The official window watcher for Windows, macOS, and Linux (X11)
 * [aw-watcher-window-wayland](https://github.com/ActivityWatch/aw-watcher-window-wayland) ⭐ 101 | 🐛 16 | 🌐 Rust | 📅 2026-06-29 - Window watcher for Wayland by @johan-bjareholt
 * [aw-watcher-enhanced](https://github.com/kepptic/aw-watcher-enhanced) ⭐ 7 | 🐛 2 | 🌐 Rust | 📅 2026-03-10 - Enhanced window watcher with OCR screen capture, LLM-powered context extraction (via Ollama), smart idle detection, and remote desktop support by @kepptic
