@@ -15,8 +15,9 @@
             "last_commit": "2026-08-26T14:45:09Z",
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18730
-          }
+            "stars": 18738
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-22T20:19:14Z",
             "owner": "ActivityWatch",
             "repo": "aw-tauri",
-            "stars": 62
-          }
+            "stars": 63
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "K-Kuyama",
             "repo": "yet-another-UI-for-AW",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "jpcafe10",
             "repo": "codewatch",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         }
       ],
       "title": "Applications"
@@ -82,7 +86,8 @@
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "ActivityWatch",
             "repo": "aw-server",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         }
       ],
       "title": "Server Implementations :computer:"
@@ -118,7 +124,8 @@
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "ActivityWatch",
             "repo": "aw-client",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "ActivityWatch",
             "repo": "aw-client-js",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         }
       ],
       "title": "Client Libraries"
@@ -169,7 +178,8 @@
             "owner": "ActivityWatch",
             "repo": "aw-watcher-window",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "ActivityWatch",
             "repo": "aw-watcher-afk",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         },
         {
           "children": [
@@ -200,8 +211,9 @@
                 "last_commit": "2026-07-31T21:44:16Z",
                 "owner": "2e3s",
                 "repo": "awatcher",
-                "stars": 298
-              }
+                "stars": 299
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -216,7 +228,8 @@
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-window",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -231,7 +244,8 @@
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-window-wayland",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -246,7 +260,8 @@
                 "owner": "kepptic",
                 "repo": "aw-watcher-enhanced",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             }
           ],
           "description": null,
@@ -268,7 +283,8 @@
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-web",
                 "stars": 561
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             }
           ],
           "description": null,
@@ -290,7 +306,8 @@
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-vscode",
                 "stars": 279
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -305,7 +322,8 @@
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-vim",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -320,7 +338,8 @@
                 "owner": "LordGrimmauld",
                 "repo": "aw-watcher-obsidian",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -335,7 +354,8 @@
                 "owner": "pauldub",
                 "repo": "activity-watch-mode",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -350,7 +370,8 @@
                 "owner": "OlivierMary",
                 "repo": "aw-watcher-jetbrains",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -365,7 +386,8 @@
                 "owner": "LaggAt",
                 "repo": "ActivityWatchVS",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -380,7 +402,8 @@
                 "owner": "kostasdizas",
                 "repo": "aw-watcher-sublime",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -395,7 +418,8 @@
                 "owner": "pascalwhoop",
                 "repo": "aw-idea",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -410,7 +434,8 @@
                 "owner": "NicoWeio",
                 "repo": "aw-watcher-atom",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -425,7 +450,8 @@
                 "owner": "pytlus93",
                 "repo": "AwWatcherNetBeans82",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             }
           ],
           "description": null,
@@ -447,7 +473,8 @@
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-spotify",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -462,7 +489,8 @@
                 "owner": "2e3s",
                 "repo": "aw-watcher-media-player",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -477,7 +505,8 @@
                 "owner": "0xbrayo",
                 "repo": "aw-watcher-lastfm",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -492,7 +521,8 @@
                 "owner": "RundownRhino",
                 "repo": "aw-watcher-mpv-sender",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -507,7 +537,8 @@
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-openvr",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -522,7 +553,8 @@
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-chromecast",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             }
           ],
           "description": null,
@@ -544,7 +576,8 @@
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-input",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -559,7 +592,8 @@
                 "owner": "Alwinator",
                 "repo": "aw-watcher-utilization",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -574,7 +608,8 @@
                 "owner": "akohlbecker",
                 "repo": "aw-watcher-tmux",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -589,7 +624,8 @@
                 "owner": "bcbernardo",
                 "repo": "aw-watcher-ask",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -604,7 +640,8 @@
                 "owner": "Alwinator",
                 "repo": "aw-watcher-table",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -619,7 +656,8 @@
                 "owner": "Edwardsoen",
                 "repo": "aw-watcher-steam",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -634,7 +672,8 @@
                 "owner": "abdnh",
                 "repo": "aw-watcher-anki",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -649,7 +688,8 @@
                 "owner": "sameersismail",
                 "repo": "aw-watcher-netstatus",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -660,11 +700,12 @@
                 "archived": false,
                 "id": 699153344,
                 "language": "Python",
-                "last_commit": "2025-10-04T23:48:21Z",
+                "last_commit": "2026-08-28T19:23:27Z",
                 "owner": "RTnhN",
                 "repo": "aw-watcher-toggl",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -679,7 +720,8 @@
                 "owner": "InertialG",
                 "repo": "aw-watcher-screenshot",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             },
             {
               "node_type": "item",
@@ -694,7 +736,8 @@
                 "owner": "RTnhN",
                 "repo": "aw-watcher-buttons",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
             }
           ],
           "description": "We also maintain a list of watchers in the documentation.\nWant to create your own watcher? Check out the writing watchers guide in the documentation.\nHave you written a watcher? Submit a PR to have it included here!",
@@ -720,7 +763,8 @@
             "owner": "ActivityWatch",
             "repo": "aw-import-screentime",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         },
         {
           "node_type": "item",
@@ -735,7 +779,8 @@
             "owner": "TimeToBuildBob",
             "repo": "aw-import-toggl",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         },
         {
           "node_type": "item",
@@ -750,7 +795,8 @@
             "owner": "TimeToBuildBob",
             "repo": "aw-import-rescuetime",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         },
         {
           "node_type": "item",
@@ -765,7 +811,8 @@
             "owner": "TimeToBuildBob",
             "repo": "aw-import-manictime",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         },
         {
           "node_type": "item",
@@ -780,7 +827,8 @@
             "owner": "TimeToBuildBob",
             "repo": "aw-import-clockify",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         },
         {
           "node_type": "item",
@@ -795,7 +843,8 @@
             "owner": "TimeToBuildBob",
             "repo": "aw-import-harvest",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         }
       ],
       "title": "Importers :inbox_tray:"
@@ -816,7 +865,8 @@
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         },
         {
           "node_type": "item",
@@ -831,7 +881,8 @@
             "owner": "phrp720",
             "repo": "aw-sync-suite",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         },
         {
           "node_type": "item",
@@ -846,14 +897,15 @@
             "owner": "rare-magma",
             "repo": "activitywatch-exporter",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:49:08.072Z"
         }
       ],
       "title": "Sync"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:15:17.277Z",
+    "last_updated": "2026-08-29T01:49:08.072Z",
     "original_repository_info": {
       "archived": false,
       "id": 634528093,
