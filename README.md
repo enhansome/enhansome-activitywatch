@@ -20,7 +20,7 @@ This list is just getting started. *Do you see anything missing? [Make a pull re
 
 The main ActivityWatch application and alternative implementations:
 
-* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 18,772 | 🐛 187 | 🌐 Python | 📅 2026-08-31) - The official distribution, includes:
+* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 18,779 | 🐛 194 | 🌐 Python | 📅 2026-09-01) - The official distribution, includes:
   * aw-qt (tray application)
   * aw-server & aw-server-rust (storage and API)
   * aw-watcher-window (window tracking)
@@ -68,20 +68,20 @@ ActivityWatch comes with two watchers enabled by default:
 
 ## Window Watchers :desktop\_computer:
 
-* [awatcher](https://github.com/2e3s/awatcher) ⭐ 302 | 🐛 32 | 🌐 Rust | 📅 2026-07-31 - A compiled watcher for X11 and Wayland by @2e3s
+* [awatcher](https://github.com/2e3s/awatcher) ⭐ 303 | 🐛 32 | 🌐 Rust | 📅 2026-07-31 - A compiled watcher for X11 and Wayland by @2e3s
 * [aw-watcher-window](https://github.com/ActivityWatch/aw-watcher-window) ⭐ 127 | 🐛 37 | 🌐 Python | 📅 2026-08-23 - The official window watcher for Windows, macOS, and Linux (X11)
 * [aw-watcher-window-wayland](https://github.com/ActivityWatch/aw-watcher-window-wayland) ⭐ 102 | 🐛 16 | 🌐 Rust | 📅 2026-06-29 - Window watcher for Wayland by @johan-bjareholt
 * [aw-watcher-enhanced](https://github.com/kepptic/aw-watcher-enhanced) ⭐ 7 | 🐛 2 | 🌐 Rust | 📅 2026-03-10 - Enhanced window watcher with OCR screen capture, LLM-powered context extraction (via Ollama), smart idle detection, and remote desktop support by @kepptic
 
 ## Browser Watchers :globe\_with\_meridians:
 
-* [aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) ⭐ 564 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-16 - Official browser extension for Chrome, Edge, and Firefox
+* [aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) ⭐ 565 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-16 - Official browser extension for Chrome, Edge, and Firefox
 
 ## Editor Watchers :pencil2:
 
 * [aw-watcher-vscode](https://github.com/ActivityWatch/aw-watcher-vscode) ⭐ 279 | 🐛 22 | 🌐 TypeScript | 📅 2024-01-12 - Visual Studio Code extension by @Otto-AA
 * [aw-watcher-vim](https://github.com/ActivityWatch/aw-watcher-vim) ⭐ 123 | 🐛 5 | 🌐 Vim Script | 📅 2023-10-09 - Vim extension by @johan-bjareholt and @ahnlabb
-* [aw-watcher-obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian) ⭐ 113 | 🐛 9 | 🌐 TypeScript | 📅 2023-02-23 - Obsidian.md extension by @LordGrimmauld
+* [aw-watcher-obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian) ⭐ 114 | 🐛 9 | 🌐 TypeScript | 📅 2023-02-23 - Obsidian.md extension by @LordGrimmauld
 * [activity-watch-mode](https://github.com/pauldub/activity-watch-mode) ⭐ 88 | 🐛 8 | 🌐 Emacs Lisp | 📅 2026-03-18 - Emacs mode by @pauldub
 * [aw-watcher-jetbrains](https://github.com/OlivierMary/aw-watcher-jetbrains) ⭐ 88 | 🐛 8 | 🌐 Java | 📅 2024-07-08 - For all JetBrains IDEs by @OlivierMary ([JetBrains Marketplace](https://plugins.jetbrains.com/plugin/11361-activity-watcher))
 * [ActivityWatchVS](https://github.com/LaggAt/ActivityWatchVS) ⭐ 35 | 🐛 6 | 🌐 C# | 📅 2025-01-07 - Visual Studio extension by @LaggAt
@@ -101,7 +101,7 @@ ActivityWatch comes with two watchers enabled by default:
 
 ## Other Watchers :gear:
 
-* [aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input) ⭐ 168 | 🐛 21 | 🌐 Python | 📅 2024-10-17 - Tracks keyboard/mouse usage statistics
+* [aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input) ⭐ 168 | 🐛 22 | 🌐 Python | 📅 2024-10-17 - Tracks keyboard/mouse usage statistics
 * [aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) ⭐ 109 | 🐛 10 | 🌐 Python | 📅 2026-01-08 - System resource monitoring by @Alwinator
 * [aw-watcher-tmux](https://github.com/akohlbecker/aw-watcher-tmux) ⭐ 95 | 🐛 3 | 🌐 Shell | 📅 2024-02-05 - Monitors tmux sessions by @akohlbecker
 * [aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) ⭐ 91 | 🐛 3 | 🌐 Python | 📅 2023-03-16 - Periodically asks user questions (WIP)
@@ -166,11 +166,11 @@ Thank you for supporting ActivityWatch and helping it stay afloat financially as
 
 # Other links :link:
 
-* [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) ⭐ 2,767 | 🐛 41 | 📅 2026-07-06, a list of awesome quantified self resources
+* [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) ⭐ 2,768 | 🐛 42 | 📅 2026-07-06, a list of awesome quantified self resources
 * [Superuser Labs](https://superuserlabs.org/), company owned and run by founder Erik Bjäreholt for consulting and other ActivityWatch-related services (among other things).
   * [LinkedIn](https://www.linkedin.com/company/superuser-labs/)
   * [Twitter](https://twitter.com/SuperusrLabs)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

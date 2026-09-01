@@ -15,11 +15,11 @@
             "id": 57224308,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-31T19:26:19Z",
-            "open_issues": 187,
+            "last_commit": "2026-09-01T20:42:04Z",
+            "open_issues": 194,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18772,
+            "stars": 18779,
             "topics": [
               "activitywatch",
               "afk",
@@ -325,7 +325,7 @@
                 "open_issues": 32,
                 "owner": "2e3s",
                 "repo": "awatcher",
-                "stars": 302,
+                "stars": 303,
                 "topics": [
                   "productivity",
                   "self-tracking",
@@ -425,7 +425,7 @@
                 "open_issues": 51,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-web",
-                "stars": 564,
+                "stars": 565,
                 "topics": [
                   "activitywatch",
                   "chrome-extension",
@@ -506,7 +506,7 @@
                 "open_issues": 9,
                 "owner": "LordGrimmauld",
                 "repo": "aw-watcher-obsidian",
-                "stars": 113,
+                "stars": 114,
                 "topics": [
                   "activitywatch",
                   "activitywatch-watcher",
@@ -842,7 +842,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-10-17T16:38:32Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-input",
                 "stars": 168,
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T22:57:23.254Z",
+    "last_updated": "2026-09-01T21:11:24.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
