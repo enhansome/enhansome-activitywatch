@@ -20,7 +20,7 @@ This list is just getting started. *Do you see anything missing? [Make a pull re
 
 The main ActivityWatch application and alternative implementations:
 
-* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 18,809 | 🐛 187 | 🌐 Python | 📅 2026-09-04) - The official distribution, includes:
+* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 18,814 | 🐛 188 | 🌐 Python | 📅 2026-09-04) - The official distribution, includes:
   * aw-qt (tray application)
   * aw-server & aw-server-rust (storage and API)
   * aw-watcher-window (window tracking)
@@ -101,10 +101,10 @@ ActivityWatch comes with two watchers enabled by default:
 
 ## Other Watchers :gear:
 
-* [aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input) ⭐ 168 | 🐛 22 | 🌐 Python | 📅 2024-10-17 - Tracks keyboard/mouse usage statistics
+* [aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input) ⭐ 169 | 🐛 22 | 🌐 Python | 📅 2024-10-17 - Tracks keyboard/mouse usage statistics
 * [aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) ⭐ 109 | 🐛 10 | 🌐 Python | 📅 2026-01-08 - System resource monitoring by @Alwinator
 * [aw-watcher-tmux](https://github.com/akohlbecker/aw-watcher-tmux) ⭐ 95 | 🐛 3 | 🌐 Shell | 📅 2024-02-05 - Monitors tmux sessions by @akohlbecker
-* [aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) ⭐ 91 | 🐛 1 | 🌐 Python | 📅 2026-09-04 - Periodically asks user questions (WIP)
+* [aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) ⭐ 92 | 🐛 1 | 🌐 Python | 📅 2026-09-04 - Periodically asks user questions (WIP)
 * [aw-watcher-table](https://github.com/Alwinator/aw-watcher-table) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2023-11-20 - Monitors height-adjustable desk position by @Alwinator
 * [aw-watcher-steam](https://github.com/Edwardsoen/aw-watcher-steam) ⭐ 38 | 🐛 6 | 🌐 Python | 📅 2025-06-16 - Tracks Steam gaming sessions
 * [aw-watcher-anki](https://github.com/abdnh/aw-watcher-anki) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2023-11-02 - Tracks Anki flashcard review time
@@ -123,7 +123,7 @@ Have you written a watcher? Submit a PR to have it included here!
 
 Tools for migrating historical time tracking data from other tools into ActivityWatch:
 
-* [aw-import-screentime](https://github.com/ActivityWatch/aw-import-screentime) ⭐ 86 | 🐛 6 | 🌐 Python | 📅 2026-07-27 - Import macOS Screen Time data into ActivityWatch (official)
+* [aw-import-screentime](https://github.com/ActivityWatch/aw-import-screentime) ⭐ 87 | 🐛 6 | 🌐 Python | 📅 2026-07-27 - Import macOS Screen Time data into ActivityWatch (official)
 * [aw-import-toggl](https://github.com/TimeToBuildBob/aw-import-toggl) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-11 - Import Toggl Track time entries from CSV export into ActivityWatch
 * [aw-import-rescuetime](https://github.com/TimeToBuildBob/aw-import-rescuetime) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-11 - Import RescueTime activity data from CSV export into ActivityWatch
 * [aw-import-manictime](https://github.com/TimeToBuildBob/aw-import-manictime) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-11 - Import ManicTime data directly from its SQLite database into ActivityWatch
@@ -173,4 +173,4 @@ Thank you for supporting ActivityWatch and helping it stay afloat financially as
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
