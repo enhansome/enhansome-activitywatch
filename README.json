@@ -15,11 +15,11 @@
             "id": 57224308,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-04T15:01:04Z",
-            "open_issues": 188,
+            "last_commit": "2026-09-06T13:16:44Z",
+            "open_issues": 186,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18814,
+            "stars": 18827,
             "topics": [
               "activitywatch",
               "afk",
@@ -124,7 +124,7 @@
             "open_issues": 62,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 313,
+            "stars": 315,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -185,7 +185,7 @@
             "open_issues": 62,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 313,
+            "stars": 315,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -271,7 +271,7 @@
             "open_issues": 36,
             "owner": "ActivityWatch",
             "repo": "aw-watcher-window",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "active-window",
               "activitywatch",
@@ -350,7 +350,7 @@
                 "open_issues": 36,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-window",
-                "stars": 127,
+                "stars": 128,
                 "topics": [
                   "active-window",
                   "activitywatch",
@@ -481,7 +481,7 @@
                 "open_issues": 5,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-vim",
-                "stars": 123,
+                "stars": 124,
                 "topics": [
                   "activitywatch-watcher",
                   "neovim",
@@ -1233,7 +1233,7 @@
             "open_issues": 62,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 313,
+            "stars": 315,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:32:58.291Z",
+    "last_updated": "2026-09-06T20:36:19.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
@@ -1323,7 +1323,7 @@
       "open_issues": 3,
       "owner": "ActivityWatch",
       "repo": "awesome-activitywatch",
-      "stars": 175,
+      "stars": 176,
       "topics": [
         "activitywatch",
         "awesome",
