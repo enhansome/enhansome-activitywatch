@@ -15,11 +15,11 @@
             "id": 57224308,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-06T13:16:44Z",
+            "last_commit": "2026-09-07T20:24:01Z",
             "open_issues": 186,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18827,
+            "stars": 18835,
             "topics": [
               "activitywatch",
               "afk",
@@ -267,7 +267,7 @@
             "id": 66086574,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-04T08:37:06Z",
+            "last_commit": "2026-09-07T20:55:24Z",
             "open_issues": 36,
             "owner": "ActivityWatch",
             "repo": "aw-watcher-window",
@@ -325,7 +325,7 @@
                 "open_issues": 33,
                 "owner": "2e3s",
                 "repo": "awatcher",
-                "stars": 304,
+                "stars": 305,
                 "topics": [
                   "productivity",
                   "self-tracking",
@@ -346,7 +346,7 @@
                 "id": 66086574,
                 "language": "Python",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-04T08:37:06Z",
+                "last_commit": "2026-09-07T20:55:24Z",
                 "open_issues": 36,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-window",
@@ -425,7 +425,7 @@
                 "open_issues": 54,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-web",
-                "stars": 565,
+                "stars": 564,
                 "topics": [
                   "activitywatch",
                   "chrome-extension",
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:36:19.986Z",
+    "last_updated": "2026-09-07T21:39:07.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
