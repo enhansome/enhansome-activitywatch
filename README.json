@@ -19,7 +19,7 @@
             "open_issues": 186,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18856,
+            "stars": 18859,
             "topics": [
               "activitywatch",
               "afk",
@@ -120,8 +120,8 @@
             "id": 152148256,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-10T19:51:10Z",
-            "open_issues": 63,
+            "last_commit": "2026-09-11T13:52:50Z",
+            "open_issues": 67,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 315,
@@ -181,8 +181,8 @@
             "id": 152148256,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-10T19:51:10Z",
-            "open_issues": 63,
+            "last_commit": "2026-09-11T13:52:50Z",
+            "open_issues": 67,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 315,
@@ -397,7 +397,7 @@
                 "open_issues": 2,
                 "owner": "kepptic",
                 "repo": "aw-watcher-enhanced",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -1027,7 +1027,7 @@
                 "open_issues": 0,
                 "owner": "RTnhN",
                 "repo": "aw-watcher-toggl",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -1229,8 +1229,8 @@
             "id": 152148256,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-10T19:51:10Z",
-            "open_issues": 63,
+            "last_commit": "2026-09-11T13:52:50Z",
+            "open_issues": 67,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 315,
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:02:09.467Z",
+    "last_updated": "2026-09-11T21:06:55.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
@@ -1323,7 +1323,7 @@
       "open_issues": 3,
       "owner": "ActivityWatch",
       "repo": "awesome-activitywatch",
-      "stars": 176,
+      "stars": 178,
       "topics": [
         "activitywatch",
         "awesome",
