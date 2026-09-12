@@ -19,7 +19,7 @@
             "open_issues": 186,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18859,
+            "stars": 18870,
             "topics": [
               "activitywatch",
               "afk",
@@ -322,7 +322,7 @@
                 "language": "Rust",
                 "license": "MPL-2.0",
                 "last_commit": "2026-07-31T21:44:16Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "2e3s",
                 "repo": "awatcher",
                 "stars": 306,
@@ -1098,7 +1098,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-07-27T06:02:48Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "ActivityWatch",
             "repo": "aw-import-screentime",
             "stars": 87,
@@ -1261,7 +1261,7 @@
             "open_issues": 1,
             "owner": "phrp720",
             "repo": "aw-sync-suite",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "activitywatch",
               "analytics",
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:06:55.494Z",
+    "last_updated": "2026-09-12T20:45:08.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
