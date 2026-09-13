@@ -19,7 +19,7 @@
             "open_issues": 186,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18870,
+            "stars": 18883,
             "topics": [
               "activitywatch",
               "afk",
@@ -49,7 +49,7 @@
             "id": 626593689,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-10T19:58:01Z",
+            "last_commit": "2026-09-13T18:37:49Z",
             "open_issues": 10,
             "owner": "ActivityWatch",
             "repo": "aw-tauri",
@@ -910,8 +910,8 @@
                 "id": 394011637,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-04T17:34:34Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-12T21:00:03Z",
+                "open_issues": 0,
                 "owner": "bcbernardo",
                 "repo": "aw-watcher-ask",
                 "stars": 93,
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T20:45:08.355Z",
+    "last_updated": "2026-09-13T21:00:02.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",

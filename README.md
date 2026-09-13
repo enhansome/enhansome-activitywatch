@@ -20,7 +20,7 @@ This list is just getting started. *Do you see anything missing? [Make a pull re
 
 The main ActivityWatch application and alternative implementations:
 
-* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 18,870 | 🐛 186 | 🌐 Python | 📅 2026-09-10) - The official distribution, includes:
+* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 18,883 | 🐛 186 | 🌐 Python | 📅 2026-09-10) - The official distribution, includes:
   * aw-qt (tray application)
   * aw-server & aw-server-rust (storage and API)
   * aw-watcher-window (window tracking)
@@ -28,7 +28,7 @@ The main ActivityWatch application and alternative implementations:
   * aw-watcher-input (keyboard/mouse usage)
   * aw-sync (data syncing)
   * aw-notify (notifications)
-* [aw-tauri](https://github.com/ActivityWatch/aw-tauri) ⭐ 67 | 🐛 10 | 🌐 Rust | 📅 2026-09-10 (WIP), experimental/alternative distribution of ActivityWatch using Tauri
+* [aw-tauri](https://github.com/ActivityWatch/aw-tauri) ⭐ 67 | 🐛 10 | 🌐 Rust | 📅 2026-09-13 (WIP), experimental/alternative distribution of ActivityWatch using Tauri
 * [yet-another-UI-for-AW](https://github.com/K-Kuyama/yet-another-UI-for-AW/) ⭐ 10 | 🐛 6 | 🌐 Python | 📅 2024-01-31, a native UI for ActivityWatch with Japanese localization ([announcement forum post](https://forum.activitywatch.net/t/another-gui-client-for-aw/2748))
 * [Codewatch](https://github.com/jca41/codewatch) ⭐ 7 | 🐛 5 | 🌐 Svelte | 📅 2023-06-05, desktop client for ActivityWatch focused on software development and productivity.
 * [Workflow](https://flathub.org/apps/com.gitlab.cunidev.Workflow), basic screentime application using GTK
@@ -104,7 +104,7 @@ ActivityWatch comes with two watchers enabled by default:
 * [aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input) ⭐ 169 | 🐛 22 | 🌐 Python | 📅 2024-10-17 - Tracks keyboard/mouse usage statistics
 * [aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) ⭐ 110 | 🐛 10 | 🌐 Python | 📅 2026-01-08 - System resource monitoring by @Alwinator
 * [aw-watcher-tmux](https://github.com/akohlbecker/aw-watcher-tmux) ⭐ 95 | 🐛 3 | 🌐 Shell | 📅 2024-02-05 - Monitors tmux sessions by @akohlbecker
-* [aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) ⭐ 93 | 🐛 1 | 🌐 Python | 📅 2026-09-04 - Periodically asks user questions (WIP)
+* [aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2026-09-12 - Periodically asks user questions (WIP)
 * [aw-watcher-table](https://github.com/Alwinator/aw-watcher-table) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2023-11-20 - Monitors height-adjustable desk position by @Alwinator
 * [aw-watcher-steam](https://github.com/Edwardsoen/aw-watcher-steam) ⭐ 38 | 🐛 6 | 🌐 Python | 📅 2025-06-16 - Tracks Steam gaming sessions
 * [aw-watcher-anki](https://github.com/abdnh/aw-watcher-anki) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2023-11-02 - Tracks Anki flashcard review time
@@ -173,4 +173,4 @@ Thank you for supporting ActivityWatch and helping it stay afloat financially as
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
