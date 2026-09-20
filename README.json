@@ -19,7 +19,7 @@
             "open_issues": 184,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18938,
+            "stars": 18951,
             "topics": [
               "activitywatch",
               "afk",
@@ -124,7 +124,7 @@
             "open_issues": 71,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 315,
+            "stars": 316,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -185,7 +185,7 @@
             "open_issues": 71,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 315,
+            "stars": 316,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -425,7 +425,7 @@
                 "open_issues": 54,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-web",
-                "stars": 564,
+                "stars": 565,
                 "topics": [
                   "activitywatch",
                   "chrome-extension",
@@ -1233,7 +1233,7 @@
             "open_issues": 71,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 315,
+            "stars": 316,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T20:52:55.118Z",
+    "last_updated": "2026-09-20T20:57:44.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
