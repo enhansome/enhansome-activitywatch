@@ -20,7 +20,7 @@ This list is just getting started. *Do you see anything missing? [Make a pull re
 
 The main ActivityWatch application and alternative implementations:
 
-* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 18,951 | 🐛 184 | 🌐 Python | 📅 2026-09-19) - The official distribution, includes:
+* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 18,959 | 🐛 184 | 🌐 Python | 📅 2026-09-19) - The official distribution, includes:
   * aw-qt (tray application)
   * aw-server & aw-server-rust (storage and API)
   * aw-watcher-window (window tracking)
@@ -71,11 +71,11 @@ ActivityWatch comes with two watchers enabled by default:
 * [awatcher](https://github.com/2e3s/awatcher) ⭐ 308 | 🐛 34 | 🌐 Rust | 📅 2026-07-31 - A compiled watcher for X11 and Wayland by @2e3s
 * [aw-watcher-window](https://github.com/ActivityWatch/aw-watcher-window) ⭐ 130 | 🐛 34 | 🌐 Python | 📅 2026-09-15 - The official window watcher for Windows, macOS, and Linux (X11)
 * [aw-watcher-window-wayland](https://github.com/ActivityWatch/aw-watcher-window-wayland) ⭐ 101 | 🐛 16 | 🌐 Rust | 📅 2026-06-29 - Window watcher for Wayland by @johan-bjareholt
-* [aw-watcher-enhanced](https://github.com/kepptic/aw-watcher-enhanced) ⭐ 8 | 🐛 2 | 🌐 Rust | 📅 2026-03-10 - Enhanced window watcher with OCR screen capture, LLM-powered context extraction (via Ollama), smart idle detection, and remote desktop support by @kepptic
+* [aw-watcher-enhanced](https://github.com/kepptic/aw-watcher-enhanced) ⭐ 9 | 🐛 2 | 🌐 Rust | 📅 2026-03-10 - Enhanced window watcher with OCR screen capture, LLM-powered context extraction (via Ollama), smart idle detection, and remote desktop support by @kepptic
 
 ## Browser Watchers :globe\_with\_meridians:
 
-* [aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) ⭐ 565 | 🐛 54 | 🌐 TypeScript | 📅 2026-09-08 - Official browser extension for Chrome, Edge, and Firefox
+* [aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) ⭐ 564 | 🐛 54 | 🌐 TypeScript | 📅 2026-09-08 - Official browser extension for Chrome, Edge, and Firefox
 
 ## Editor Watchers :pencil2:
 
@@ -123,7 +123,7 @@ Have you written a watcher? Submit a PR to have it included here!
 
 Tools for migrating historical time tracking data from other tools into ActivityWatch:
 
-* [aw-import-screentime](https://github.com/ActivityWatch/aw-import-screentime) ⭐ 88 | 🐛 7 | 🌐 Python | 📅 2026-07-27 - Import macOS Screen Time data into ActivityWatch (official)
+* [aw-import-screentime](https://github.com/ActivityWatch/aw-import-screentime) ⭐ 89 | 🐛 7 | 🌐 Python | 📅 2026-07-27 - Import macOS Screen Time data into ActivityWatch (official)
 * [aw-import-toggl](https://github.com/TimeToBuildBob/aw-import-toggl) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-11 - Import Toggl Track time entries from CSV export into ActivityWatch
 * [aw-import-rescuetime](https://github.com/TimeToBuildBob/aw-import-rescuetime) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-11 - Import RescueTime activity data from CSV export into ActivityWatch
 * [aw-import-manictime](https://github.com/TimeToBuildBob/aw-import-manictime) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-11 - Import ManicTime data directly from its SQLite database into ActivityWatch
@@ -166,11 +166,11 @@ Thank you for supporting ActivityWatch and helping it stay afloat financially as
 
 # Other links :link:
 
-* [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) ⭐ 2,777 | 🐛 48 | 📅 2026-07-06, a list of awesome quantified self resources
+* [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) ⭐ 2,778 | 🐛 48 | 📅 2026-07-06, a list of awesome quantified self resources
 * [Superuser Labs](https://superuserlabs.org/), company owned and run by founder Erik Bjäreholt for consulting and other ActivityWatch-related services (among other things).
   * [LinkedIn](https://www.linkedin.com/company/superuser-labs/)
   * [Twitter](https://twitter.com/SuperusrLabs)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
