@@ -19,7 +19,7 @@
             "open_issues": 184,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18959,
+            "stars": 18962,
             "topics": [
               "activitywatch",
               "afk",
@@ -49,7 +49,7 @@
             "id": 626593689,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-18T17:34:16Z",
+            "last_commit": "2026-09-22T12:22:22Z",
             "open_issues": 14,
             "owner": "ActivityWatch",
             "repo": "aw-tauri",
@@ -506,7 +506,7 @@
                 "open_issues": 9,
                 "owner": "LordGrimmauld",
                 "repo": "aw-watcher-obsidian",
-                "stars": 114,
+                "stars": 115,
                 "topics": [
                   "activitywatch",
                   "activitywatch-watcher",
@@ -1101,7 +1101,7 @@
             "open_issues": 7,
             "owner": "ActivityWatch",
             "repo": "aw-import-screentime",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
@@ -1261,7 +1261,7 @@
             "open_issues": 1,
             "owner": "phrp720",
             "repo": "aw-sync-suite",
-            "stars": 40,
+            "stars": 39,
             "topics": [
               "activitywatch",
               "analytics",
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:05:32.054Z",
+    "last_updated": "2026-09-22T21:32:27.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
@@ -1323,7 +1323,7 @@
       "open_issues": 3,
       "owner": "ActivityWatch",
       "repo": "awesome-activitywatch",
-      "stars": 179,
+      "stars": 178,
       "topics": [
         "activitywatch",
         "awesome",
