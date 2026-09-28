@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MPL-2.0",
             "last_commit": "2026-09-26T23:36:21Z",
-            "open_issues": 189,
+            "open_issues": 188,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18997,
+            "stars": 19009,
             "topics": [
               "activitywatch",
               "afk",
@@ -53,7 +53,7 @@
             "open_issues": 16,
             "owner": "ActivityWatch",
             "repo": "aw-tauri",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
@@ -124,7 +124,7 @@
             "open_issues": 81,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 318,
+            "stars": 317,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -185,7 +185,7 @@
             "open_issues": 81,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 318,
+            "stars": 317,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -325,7 +325,7 @@
                 "open_issues": 29,
                 "owner": "2e3s",
                 "repo": "awatcher",
-                "stars": 309,
+                "stars": 308,
                 "topics": [
                   "productivity",
                   "self-tracking",
@@ -425,7 +425,7 @@
                 "open_issues": 54,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-web",
-                "stars": 563,
+                "stars": 562,
                 "topics": [
                   "activitywatch",
                   "chrome-extension",
@@ -460,7 +460,7 @@
                 "open_issues": 22,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-vscode",
-                "stars": 281,
+                "stars": 282,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -1233,7 +1233,7 @@
             "open_issues": 81,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 318,
+            "stars": 317,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T21:30:21.996Z",
+    "last_updated": "2026-09-28T23:25:27.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
