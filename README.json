@@ -19,7 +19,7 @@
             "open_issues": 198,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 19038,
+            "stars": 19040,
             "topics": [
               "activitywatch",
               "afk",
@@ -121,7 +121,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-02T08:26:16Z",
-            "open_issues": 86,
+            "open_issues": 88,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 317,
@@ -182,7 +182,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-02T08:26:16Z",
-            "open_issues": 86,
+            "open_issues": 88,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 317,
@@ -1230,7 +1230,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-02T08:26:16Z",
-            "open_issues": 86,
+            "open_issues": 88,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 317,
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:25:12.735Z",
+    "last_updated": "2026-10-03T04:21:52.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
