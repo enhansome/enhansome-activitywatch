@@ -20,7 +20,7 @@ This list is just getting started. *Do you see anything missing? [Make a pull re
 
 The main ActivityWatch application and alternative implementations:
 
-* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 19,095 | 🐛 195 | 🌐 Python | 📅 2026-10-07) - The official distribution, includes:
+* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 19,132 | 🐛 195 | 🌐 Python | 📅 2026-10-08) - The official distribution, includes:
   * aw-qt (tray application)
   * aw-server & aw-server-rust (storage and API)
   * aw-watcher-window (window tracking)
@@ -28,7 +28,7 @@ The main ActivityWatch application and alternative implementations:
   * aw-watcher-input (keyboard/mouse usage)
   * aw-sync (data syncing)
   * aw-notify (notifications)
-* [aw-tauri](https://github.com/ActivityWatch/aw-tauri) ⭐ 69 | 🐛 13 | 🌐 Rust | 📅 2026-10-07 (WIP), experimental/alternative distribution of ActivityWatch using Tauri
+* [aw-tauri](https://github.com/ActivityWatch/aw-tauri) ⭐ 70 | 🐛 13 | 🌐 Rust | 📅 2026-10-07 (WIP), experimental/alternative distribution of ActivityWatch using Tauri
 * [yet-another-UI-for-AW](https://github.com/K-Kuyama/yet-another-UI-for-AW/) ⭐ 10 | 🐛 6 | 🌐 Python | 📅 2024-01-31, a native UI for ActivityWatch with Japanese localization ([announcement forum post](https://forum.activitywatch.net/t/another-gui-client-for-aw/2748))
 * [Codewatch](https://github.com/jca41/codewatch) ⭐ 7 | 🐛 5 | 🌐 Svelte | 📅 2023-06-05, desktop client for ActivityWatch focused on software development and productivity.
 * [Workflow](https://flathub.org/apps/com.gitlab.cunidev.Workflow), basic screentime application using GTK
@@ -43,14 +43,14 @@ The main ActivityWatch application and alternative implementations:
 
 ActivityWatch has a modular architecture that includes a server component for storing and analyzing the collected data.
 
-* [aw-server-rust](https://github.com/ActivityWatch/aw-server-rust) ⭐ 317 | 🐛 86 | 🌐 Rust | 📅 2026-10-06, an official server implementation written in Rust for improved performance
-* [aw-server](https://github.com/ActivityWatch/aw-server) ⭐ 127 | 🐛 37 | 🌐 Python | 📅 2026-10-06, an official server implementation written in Python
+* [aw-server-rust](https://github.com/ActivityWatch/aw-server-rust) ⭐ 318 | 🐛 88 | 🌐 Rust | 📅 2026-10-06, an official server implementation written in Rust for improved performance
+* [aw-server](https://github.com/ActivityWatch/aw-server) ⭐ 127 | 🐛 36 | 🌐 Python | 📅 2026-10-08, an official server implementation written in Python
 
 # Client Libraries
 
 The ActivityWatch ecosystem provides client libraries to help developers interact with the ActivityWatch server API and create custom watchers, integrations, extensions, or applications. Here are the official client libraries:
 
-* [aw-client-rust](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-client-rust) ⭐ 317 | 🐛 86 | 🌐 Rust | 📅 2026-10-06, a client library written in Rust
+* [aw-client-rust](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-client-rust) ⭐ 318 | 🐛 88 | 🌐 Rust | 📅 2026-10-06, a client library written in Rust
 * [aw-client](https://github.com/ActivityWatch/aw-client) ⭐ 71 | 🐛 20 | 🌐 Python | 📅 2026-10-06, a client library written in Python
 * [aw-client-js](https://github.com/ActivityWatch/aw-client-js) ⭐ 40 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-06, a client library written in JavaScript/TypeScript
 
@@ -75,7 +75,7 @@ ActivityWatch comes with two watchers enabled by default:
 
 ## Browser Watchers :globe\_with\_meridians:
 
-* [aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) ⭐ 562 | 🐛 61 | 🌐 TypeScript | 📅 2026-10-06 - Official browser extension for Chrome, Edge, and Firefox
+* [aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) ⭐ 563 | 🐛 61 | 🌐 TypeScript | 📅 2026-10-06 - Official browser extension for Chrome, Edge, and Firefox
 
 ## Editor Watchers :pencil2:
 
@@ -94,7 +94,7 @@ ActivityWatch comes with two watchers enabled by default:
 
 * [aw-watcher-spotify](https://github.com/ActivityWatch/aw-watcher-spotify) ⭐ 88 | 🐛 14 | 🌐 Python | 📅 2026-10-06 - Tracks currently playing Spotify tracks (Beta)
 * [aw-watcher-media-player](https://github.com/2e3s/aw-watcher-media-player) ⭐ 75 | 🐛 5 | 🌐 Rust | 📅 2026-09-02 - Tracks system-wide media playback
-* [aw-watcher-lastfm](https://github.com/brayo-pip/aw-watcher-lastfm) ⭐ 15 | 🐛 0 | 🌐 Rust | 📅 2026-09-30 - Tracks Last.fm scrobbles (supports most streaming services)
+* [aw-watcher-lastfm](https://github.com/brayo-pip/aw-watcher-lastfm) ⭐ 15 | 🐛 0 | 🌐 Rust | 📅 2026-10-08 - Tracks Last.fm scrobbles (supports most streaming services)
 * [aw-watcher-mpv-sender](https://github.com/RundownRhino/aw-watcher-mpv-sender) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2024-07-20 - Tracks currently playing mpv videos (WIP)
 * [aw-watcher-openvr](https://github.com/ActivityWatch/aw-watcher-openvr) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2017-05-25 - For VR applications (WIP)
 * [aw-watcher-chromecast](https://github.com/ActivityWatch/aw-watcher-chromecast) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2017-08-02 - For Chromecast devices (WIP)
@@ -132,7 +132,7 @@ Tools for migrating historical time tracking data from other tools into Activity
 
 # Sync
 
-* [aw-sync](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-sync) ⭐ 317 | 🐛 86 | 🌐 Rust | 📅 2026-10-06, the official sync-with-folder/bring-your-own-sync solution for ActivityWatch
+* [aw-sync](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-sync) ⭐ 318 | 🐛 88 | 🌐 Rust | 📅 2026-10-06, the official sync-with-folder/bring-your-own-sync solution for ActivityWatch
 * [aw-sync-suite](https://github.com/phrp720/aw-sync-suite) ⭐ 40 | 🐛 1 | 🌐 Go | 📅 2026-08-21, a centralized sync solution backed by Prometheus and visualized with Grafana, by @phrp720
 * [activitywatch-exporter](https://github.com/rare-magma/activitywatch-exporter) ⚠️ Archived, CLI tool that uploads the ActivityWatch data from the aw-server API to InfluxDB on a daily basis
 
@@ -166,11 +166,11 @@ Thank you for supporting ActivityWatch and helping it stay afloat financially as
 
 # Other links :link:
 
-* [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) ⭐ 2,782 | 🐛 59 | 📅 2026-07-06, a list of awesome quantified self resources
+* [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) ⭐ 2,786 | 🐛 59 | 📅 2026-07-06, a list of awesome quantified self resources
 * [Superuser Labs](https://superuserlabs.org/), company owned and run by founder Erik Bjäreholt for consulting and other ActivityWatch-related services (among other things).
   * [LinkedIn](https://www.linkedin.com/company/superuser-labs/)
   * [Twitter](https://twitter.com/SuperusrLabs)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
