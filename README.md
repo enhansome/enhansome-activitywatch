@@ -20,7 +20,7 @@ This list is just getting started. *Do you see anything missing? [Make a pull re
 
 The main ActivityWatch application and alternative implementations:
 
-* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 19,132 | 🐛 195 | 🌐 Python | 📅 2026-10-08) - The official distribution, includes:
+* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 19,157 | 🐛 196 | 🌐 Python | 📅 2026-10-08) - The official distribution, includes:
   * aw-qt (tray application)
   * aw-server & aw-server-rust (storage and API)
   * aw-watcher-window (window tracking)
@@ -51,7 +51,7 @@ ActivityWatch has a modular architecture that includes a server component for st
 The ActivityWatch ecosystem provides client libraries to help developers interact with the ActivityWatch server API and create custom watchers, integrations, extensions, or applications. Here are the official client libraries:
 
 * [aw-client-rust](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-client-rust) ⭐ 318 | 🐛 88 | 🌐 Rust | 📅 2026-10-06, a client library written in Rust
-* [aw-client](https://github.com/ActivityWatch/aw-client) ⭐ 71 | 🐛 20 | 🌐 Python | 📅 2026-10-06, a client library written in Python
+* [aw-client](https://github.com/ActivityWatch/aw-client) ⭐ 71 | 🐛 19 | 🌐 Python | 📅 2026-10-06, a client library written in Python
 * [aw-client-js](https://github.com/ActivityWatch/aw-client-js) ⭐ 40 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-06, a client library written in JavaScript/TypeScript
 
 # Desktop Widgets :desktop\_computer:
@@ -68,14 +68,14 @@ ActivityWatch comes with two watchers enabled by default:
 
 ## Window Watchers :desktop\_computer:
 
-* [awatcher](https://github.com/2e3s/awatcher) ⭐ 308 | 🐛 30 | 🌐 Rust | 📅 2026-09-23 - A compiled watcher for X11 and Wayland by @2e3s
+* [awatcher](https://github.com/2e3s/awatcher) ⭐ 309 | 🐛 30 | 🌐 Rust | 📅 2026-09-23 - A compiled watcher for X11 and Wayland by @2e3s
 * [aw-watcher-window](https://github.com/ActivityWatch/aw-watcher-window) ⭐ 130 | 🐛 39 | 🌐 Python | 📅 2026-10-06 - The official window watcher for Windows, macOS, and Linux (X11)
 * [aw-watcher-window-wayland](https://github.com/ActivityWatch/aw-watcher-window-wayland) ⭐ 101 | 🐛 17 | 🌐 Rust | 📅 2026-06-29 - Window watcher for Wayland by @johan-bjareholt
 * [aw-watcher-enhanced](https://github.com/kepptic/aw-watcher-enhanced) ⭐ 10 | 🐛 2 | 🌐 Rust | 📅 2026-03-10 - Enhanced window watcher with OCR screen capture, LLM-powered context extraction (via Ollama), smart idle detection, and remote desktop support by @kepptic
 
 ## Browser Watchers :globe\_with\_meridians:
 
-* [aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) ⭐ 563 | 🐛 61 | 🌐 TypeScript | 📅 2026-10-06 - Official browser extension for Chrome, Edge, and Firefox
+* [aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) ⭐ 564 | 🐛 61 | 🌐 TypeScript | 📅 2026-10-06 - Official browser extension for Chrome, Edge, and Firefox
 
 ## Editor Watchers :pencil2:
 
@@ -173,4 +173,4 @@ Thank you for supporting ActivityWatch and helping it stay afloat financially as
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
