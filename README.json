@@ -19,7 +19,7 @@
             "open_issues": 139,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 19233,
+            "stars": 19243,
             "topics": [
               "activitywatch",
               "afk",
@@ -152,7 +152,7 @@
             "open_issues": 32,
             "owner": "ActivityWatch",
             "repo": "aw-server",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "activitywatch",
               "python",
@@ -297,7 +297,7 @@
             "open_issues": 12,
             "owner": "ActivityWatch",
             "repo": "aw-watcher-afk",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "activitywatch",
               "activitywatch-watcher",
@@ -376,7 +376,7 @@
                 "open_issues": 17,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-window-wayland",
-                "stars": 101,
+                "stars": 102,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -425,7 +425,7 @@
                 "open_issues": 51,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-web",
-                "stars": 567,
+                "stars": 568,
                 "topics": [
                   "activitywatch",
                   "chrome-extension",
@@ -703,7 +703,7 @@
                 "open_issues": 12,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-spotify",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "activitywatch",
                   "activitywatch-watcher",
@@ -893,7 +893,7 @@
                 "open_issues": 6,
                 "owner": "akohlbecker",
                 "repo": "aw-watcher-tmux",
-                "stars": 95,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:51:22.198Z",
+    "last_updated": "2026-10-15T21:35:15.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
