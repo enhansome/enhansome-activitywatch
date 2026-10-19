@@ -20,7 +20,7 @@ This list is just getting started. *Do you see anything missing? [Make a pull re
 
 The main ActivityWatch application and alternative implementations:
 
-* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 19,270 | 🐛 132 | 🌐 Python | 📅 2026-10-18) - The official distribution, includes:
+* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 19,291 | 🐛 132 | 🌐 Python | 📅 2026-10-18) - The official distribution, includes:
   * aw-qt (tray application)
   * aw-server & aw-server-rust (storage and API)
   * aw-watcher-window (window tracking)
@@ -43,16 +43,16 @@ The main ActivityWatch application and alternative implementations:
 
 ActivityWatch has a modular architecture that includes a server component for storing and analyzing the collected data.
 
-* [aw-server-rust](https://github.com/ActivityWatch/aw-server-rust) ⭐ 317 | 🐛 54 | 🌐 Rust | 📅 2026-10-18, an official server implementation written in Rust for improved performance
-* [aw-server](https://github.com/ActivityWatch/aw-server) ⭐ 128 | 🐛 25 | 🌐 Python | 📅 2026-10-16, an official server implementation written in Python
+* [aw-server-rust](https://github.com/ActivityWatch/aw-server-rust) ⭐ 317 | 🐛 38 | 🌐 Rust | 📅 2026-10-19, an official server implementation written in Rust for improved performance
+* [aw-server](https://github.com/ActivityWatch/aw-server) ⭐ 128 | 🐛 27 | 🌐 Python | 📅 2026-10-19, an official server implementation written in Python
 
 # Client Libraries
 
 The ActivityWatch ecosystem provides client libraries to help developers interact with the ActivityWatch server API and create custom watchers, integrations, extensions, or applications. Here are the official client libraries:
 
-* [aw-client-rust](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-client-rust) ⭐ 317 | 🐛 54 | 🌐 Rust | 📅 2026-10-18, a client library written in Rust
-* [aw-client](https://github.com/ActivityWatch/aw-client) ⭐ 72 | 🐛 13 | 🌐 Python | 📅 2026-10-16, a client library written in Python
-* [aw-client-js](https://github.com/ActivityWatch/aw-client-js) ⭐ 40 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-16, a client library written in JavaScript/TypeScript
+* [aw-client-rust](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-client-rust) ⭐ 317 | 🐛 38 | 🌐 Rust | 📅 2026-10-19, a client library written in Rust
+* [aw-client](https://github.com/ActivityWatch/aw-client) ⭐ 72 | 🐛 11 | 🌐 Python | 📅 2026-10-19, a client library written in Python
+* [aw-client-js](https://github.com/ActivityWatch/aw-client-js) ⭐ 40 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-16, a client library written in JavaScript/TypeScript
 
 # Desktop Widgets :desktop\_computer:
 
@@ -63,52 +63,52 @@ The ActivityWatch ecosystem provides client libraries to help developers interac
 
 ActivityWatch comes with two watchers enabled by default:
 
-* [aw-watcher-window](https://github.com/ActivityWatch/aw-watcher-window) ⭐ 130 | 🐛 32 | 🌐 Python | 📅 2026-10-14 - Watches the active window and its metadata
-* [aw-watcher-afk](https://github.com/ActivityWatch/aw-watcher-afk) ⭐ 76 | 🐛 13 | 🌐 Python | 📅 2026-10-14 - Watches for mouse & keyboard activity to detect if the user is active
+* [aw-watcher-window](https://github.com/ActivityWatch/aw-watcher-window) ⭐ 131 | 🐛 31 | 🌐 Python | 📅 2026-10-19 - Watches the active window and its metadata
+* [aw-watcher-afk](https://github.com/ActivityWatch/aw-watcher-afk) ⭐ 77 | 🐛 13 | 🌐 Python | 📅 2026-10-14 - Watches for mouse & keyboard activity to detect if the user is active
 
 ## Window Watchers :desktop\_computer:
 
-* [awatcher](https://github.com/2e3s/awatcher) ⭐ 315 | 🐛 30 | 🌐 Rust | 📅 2026-09-23 - A compiled watcher for X11 and Wayland by @2e3s
-* [aw-watcher-window](https://github.com/ActivityWatch/aw-watcher-window) ⭐ 130 | 🐛 32 | 🌐 Python | 📅 2026-10-14 - The official window watcher for Windows, macOS, and Linux (X11)
+* [awatcher](https://github.com/2e3s/awatcher) ⭐ 316 | 🐛 30 | 🌐 Rust | 📅 2026-09-23 - A compiled watcher for X11 and Wayland by @2e3s
+* [aw-watcher-window](https://github.com/ActivityWatch/aw-watcher-window) ⭐ 131 | 🐛 31 | 🌐 Python | 📅 2026-10-19 - The official window watcher for Windows, macOS, and Linux (X11)
 * [aw-watcher-window-wayland](https://github.com/ActivityWatch/aw-watcher-window-wayland) ⭐ 102 | 🐛 14 | 🌐 Rust | 📅 2026-10-16 - Window watcher for Wayland by @johan-bjareholt
 * [aw-watcher-enhanced](https://github.com/kepptic/aw-watcher-enhanced) ⭐ 10 | 🐛 2 | 🌐 Rust | 📅 2026-10-10 - Enhanced window watcher with OCR screen capture, LLM-powered context extraction (via Ollama), smart idle detection, and remote desktop support by @kepptic
 
 ## Browser Watchers :globe\_with\_meridians:
 
-* [aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) ⭐ 570 | 🐛 51 | 🌐 TypeScript | 📅 2026-10-18 - Official browser extension for Chrome, Edge, and Firefox
+* [aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) ⭐ 571 | 🐛 52 | 🌐 TypeScript | 📅 2026-10-18 - Official browser extension for Chrome, Edge, and Firefox
 
 ## Editor Watchers :pencil2:
 
 * [aw-watcher-vscode](https://github.com/ActivityWatch/aw-watcher-vscode) ⭐ 284 | 🐛 23 | 🌐 TypeScript | 📅 2024-01-12 - Visual Studio Code extension by @Otto-AA
 * [aw-watcher-vim](https://github.com/ActivityWatch/aw-watcher-vim) ⭐ 124 | 🐛 7 | 🌐 Vim Script | 📅 2023-10-09 - Vim extension by @johan-bjareholt and @ahnlabb
-* [aw-watcher-obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian) ⭐ 116 | 🐛 9 | 🌐 TypeScript | 📅 2023-02-23 - Obsidian.md extension by @LordGrimmauld
+* [aw-watcher-obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian) ⭐ 117 | 🐛 9 | 🌐 TypeScript | 📅 2023-02-23 - Obsidian.md extension by @LordGrimmauld
+* [aw-watcher-jetbrains](https://github.com/OlivierMary/aw-watcher-jetbrains) ⭐ 89 | 🐛 9 | 🌐 Java | 📅 2024-07-08 - For all JetBrains IDEs by @OlivierMary ([JetBrains Marketplace](https://plugins.jetbrains.com/plugin/11361-activity-watcher))
 * [activity-watch-mode](https://github.com/pauldub/activity-watch-mode) ⭐ 88 | 🐛 9 | 🌐 Emacs Lisp | 📅 2026-03-18 - Emacs mode by @pauldub
-* [aw-watcher-jetbrains](https://github.com/OlivierMary/aw-watcher-jetbrains) ⭐ 88 | 🐛 8 | 🌐 Java | 📅 2024-07-08 - For all JetBrains IDEs by @OlivierMary ([JetBrains Marketplace](https://plugins.jetbrains.com/plugin/11361-activity-watcher))
-* [ActivityWatchVS](https://github.com/LaggAt/ActivityWatchVS) ⭐ 35 | 🐛 6 | 🌐 C# | 📅 2025-01-07 - Visual Studio extension by @LaggAt
-* [aw-watcher-sublime](https://github.com/kostasdizas/aw-watcher-sublime) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-10-17 - Sublime Text 3 by @kostasdizas
+* [ActivityWatchVS](https://github.com/LaggAt/ActivityWatchVS) ⭐ 36 | 🐛 6 | 🌐 C# | 📅 2025-01-07 - Visual Studio extension by @LaggAt
+* [aw-watcher-sublime](https://github.com/kostasdizas/aw-watcher-sublime) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-10-17 - Sublime Text 3 by @kostasdizas
 * [aw-idea](https://github.com/pascalwhoop/aw-idea) ⭐ 12 | 🐛 0 | 🌐 Java | 📅 2018-12-04 - JetBrains IDE extension by @pascalwhoop (WIP)
 * [aw-watcher-atom](https://github.com/NicoWeio/aw-watcher-atom) ⭐ 11 | 🐛 1 | 🌐 JavaScript | 📅 2023-09-12 - Atom by @NicoWeio
 * [AwWatcherNetBeans82](https://github.com/pytlus93/AwWatcherNetBeans82) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2022-04-11 - NetBeans 8.2 by @pytlus93
 
 ## Media Watchers :musical\_note:
 
-* [aw-watcher-spotify](https://github.com/ActivityWatch/aw-watcher-spotify) ⭐ 88 | 🐛 12 | 🌐 Python | 📅 2026-10-06 - Tracks currently playing Spotify tracks (Beta)
+* [aw-watcher-spotify](https://github.com/ActivityWatch/aw-watcher-spotify) ⭐ 89 | 🐛 12 | 🌐 Python | 📅 2026-10-06 - Tracks currently playing Spotify tracks (Beta)
 * [aw-watcher-media-player](https://github.com/2e3s/aw-watcher-media-player) ⭐ 76 | 🐛 5 | 🌐 Rust | 📅 2026-09-02 - Tracks system-wide media playback
-* [aw-watcher-lastfm](https://github.com/brayo-pip/aw-watcher-lastfm) ⭐ 15 | 🐛 0 | 🌐 Rust | 📅 2026-10-08 - Tracks Last.fm scrobbles (supports most streaming services)
-* [aw-watcher-mpv-sender](https://github.com/RundownRhino/aw-watcher-mpv-sender) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2024-07-20 - Tracks currently playing mpv videos (WIP)
+* [aw-watcher-lastfm](https://github.com/brayo-pip/aw-watcher-lastfm) ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2026-10-08 - Tracks Last.fm scrobbles (supports most streaming services)
+* [aw-watcher-mpv-sender](https://github.com/RundownRhino/aw-watcher-mpv-sender) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-10-19 - Tracks currently playing mpv videos (WIP)
 * [aw-watcher-openvr](https://github.com/ActivityWatch/aw-watcher-openvr) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2017-05-25 - For VR applications (WIP)
 * [aw-watcher-chromecast](https://github.com/ActivityWatch/aw-watcher-chromecast) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2017-08-02 - For Chromecast devices (WIP)
 
 ## Other Watchers :gear:
 
-* [aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input) ⭐ 172 | 🐛 16 | 🌐 Python | 📅 2026-10-14 - Tracks keyboard/mouse usage statistics
-* [aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) ⭐ 113 | 🐛 10 | 🌐 Python | 📅 2026-01-08 - System resource monitoring by @Alwinator
-* [aw-watcher-tmux](https://github.com/akohlbecker/aw-watcher-tmux) ⭐ 94 | 🐛 6 | 🌐 Shell | 📅 2024-02-05 - Monitors tmux sessions by @akohlbecker
-* [aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2026-09-12 - Periodically asks user questions (WIP)
+* [aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input) ⭐ 173 | 🐛 15 | 🌐 Python | 📅 2026-10-14 - Tracks keyboard/mouse usage statistics
+* [aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) ⭐ 114 | 🐛 10 | 🌐 Python | 📅 2026-01-08 - System resource monitoring by @Alwinator
+* [aw-watcher-tmux](https://github.com/akohlbecker/aw-watcher-tmux) ⭐ 95 | 🐛 6 | 🌐 Shell | 📅 2024-02-05 - Monitors tmux sessions by @akohlbecker
+* [aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) ⭐ 95 | 🐛 0 | 🌐 Python | 📅 2026-09-12 - Periodically asks user questions (WIP)
 * [aw-watcher-table](https://github.com/Alwinator/aw-watcher-table) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2023-11-20 - Monitors height-adjustable desk position by @Alwinator
 * [aw-watcher-steam](https://github.com/Edwardsoen/aw-watcher-steam) ⭐ 40 | 🐛 6 | 🌐 Python | 📅 2025-06-16 - Tracks Steam gaming sessions
 * [aw-watcher-anki](https://github.com/abdnh/aw-watcher-anki) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2023-11-02 - Tracks Anki flashcard review time
-* [aw-watcher-netstatus](https://github.com/sameersismail/aw-watcher-netstatus) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2023-01-31 - Network connectivity monitoring by @sameersismail
+* [aw-watcher-netstatus](https://github.com/sameersismail/aw-watcher-netstatus) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2023-01-31 - Network connectivity monitoring by @sameersismail
 * [aw-watcher-toggl](https://github.com/RTnhN/aw-watcher-toggl) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-08-28 - Imports time entries from Toggl
 * [aw-watcher-screenshot](https://github.com/InertialG/aw-watcher-screenshot) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2026-01-08 - Periodic screenshot capture with perceptual hash filtering and optional S3 upload
 * [aw-watcher-buttons](https://github.com/RTnhN/aw-watcher-buttons) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2026-01-04 - Arduino-based hardware button tracking (WIP)
@@ -123,7 +123,7 @@ Have you written a watcher? Submit a PR to have it included here!
 
 Tools for migrating historical time tracking data from other tools into ActivityWatch:
 
-* [aw-import-screentime](https://github.com/ActivityWatch/aw-import-screentime) ⭐ 92 | 🐛 8 | 🌐 Python | 📅 2026-07-27 - Import macOS Screen Time data into ActivityWatch (official)
+* [aw-import-screentime](https://github.com/ActivityWatch/aw-import-screentime) ⭐ 93 | 🐛 8 | 🌐 Python | 📅 2026-07-27 - Import macOS Screen Time data into ActivityWatch (official)
 * [aw-import-toggl](https://github.com/TimeToBuildBob/aw-import-toggl) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-11 - Import Toggl Track time entries from CSV export into ActivityWatch
 * [aw-import-rescuetime](https://github.com/TimeToBuildBob/aw-import-rescuetime) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-11 - Import RescueTime activity data from CSV export into ActivityWatch
 * [aw-import-manictime](https://github.com/TimeToBuildBob/aw-import-manictime) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-11 - Import ManicTime data directly from its SQLite database into ActivityWatch
@@ -132,7 +132,7 @@ Tools for migrating historical time tracking data from other tools into Activity
 
 # Sync
 
-* [aw-sync](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-sync) ⭐ 317 | 🐛 54 | 🌐 Rust | 📅 2026-10-18, the official sync-with-folder/bring-your-own-sync solution for ActivityWatch
+* [aw-sync](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-sync) ⭐ 317 | 🐛 38 | 🌐 Rust | 📅 2026-10-19, the official sync-with-folder/bring-your-own-sync solution for ActivityWatch
 * [aw-sync-suite](https://github.com/phrp720/aw-sync-suite) ⭐ 41 | 🐛 1 | 🌐 Go | 📅 2026-08-21, a centralized sync solution backed by Prometheus and visualized with Grafana, by @phrp720
 * [activitywatch-exporter](https://github.com/rare-magma/activitywatch-exporter) ⚠️ Archived, CLI tool that uploads the ActivityWatch data from the aw-server API to InfluxDB on a daily basis
 
@@ -166,11 +166,11 @@ Thank you for supporting ActivityWatch and helping it stay afloat financially as
 
 # Other links :link:
 
-* [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) ⭐ 2,795 | 🐛 57 | 📅 2026-07-06, a list of awesome quantified self resources
+* [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) ⭐ 2,795 | 🐛 56 | 📅 2026-07-06, a list of awesome quantified self resources
 * [Superuser Labs](https://superuserlabs.org/), company owned and run by founder Erik Bjäreholt for consulting and other ActivityWatch-related services (among other things).
   * [LinkedIn](https://www.linkedin.com/company/superuser-labs/)
   * [Twitter](https://twitter.com/SuperusrLabs)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

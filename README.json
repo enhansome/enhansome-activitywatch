@@ -19,7 +19,7 @@
             "open_issues": 132,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 19270,
+            "stars": 19291,
             "topics": [
               "activitywatch",
               "afk",
@@ -120,8 +120,8 @@
             "id": 152148256,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-18T16:36:43Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-19T18:34:07Z",
+            "open_issues": 38,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 317,
@@ -148,8 +148,8 @@
             "id": 55904087,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-16T12:10:39Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-19T22:29:45Z",
+            "open_issues": 27,
             "owner": "ActivityWatch",
             "repo": "aw-server",
             "stars": 128,
@@ -181,8 +181,8 @@
             "id": 152148256,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-18T16:36:43Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-19T18:34:07Z",
+            "open_issues": 38,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 317,
@@ -209,8 +209,8 @@
             "id": 56850164,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-16T20:13:23Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-19T20:02:37Z",
+            "open_issues": 11,
             "owner": "ActivityWatch",
             "repo": "aw-client",
             "stars": 72,
@@ -236,7 +236,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-16T08:16:47Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "ActivityWatch",
             "repo": "aw-client-js",
             "stars": 40,
@@ -267,11 +267,11 @@
             "id": 66086574,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-14T15:29:56Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-19T10:59:45Z",
+            "open_issues": 31,
             "owner": "ActivityWatch",
             "repo": "aw-watcher-window",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "active-window",
               "activitywatch",
@@ -297,7 +297,7 @@
             "open_issues": 13,
             "owner": "ActivityWatch",
             "repo": "aw-watcher-afk",
-            "stars": 76,
+            "stars": 77,
             "topics": [
               "activitywatch",
               "activitywatch-watcher",
@@ -325,7 +325,7 @@
                 "open_issues": 30,
                 "owner": "2e3s",
                 "repo": "awatcher",
-                "stars": 315,
+                "stars": 316,
                 "topics": [
                   "productivity",
                   "self-tracking",
@@ -346,11 +346,11 @@
                 "id": 66086574,
                 "language": "Python",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-14T15:29:56Z",
-                "open_issues": 32,
+                "last_commit": "2026-10-19T10:59:45Z",
+                "open_issues": 31,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-window",
-                "stars": 130,
+                "stars": 131,
                 "topics": [
                   "active-window",
                   "activitywatch",
@@ -422,10 +422,10 @@
                 "language": "TypeScript",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-18T16:55:40Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-web",
-                "stars": 570,
+                "stars": 571,
                 "topics": [
                   "activitywatch",
                   "chrome-extension",
@@ -506,7 +506,7 @@
                 "open_issues": 9,
                 "owner": "GrimmTheShrimp",
                 "repo": "aw-watcher-obsidian",
-                "stars": 116,
+                "stars": 117,
                 "topics": [
                   "activitywatch",
                   "activitywatch-watcher",
@@ -517,6 +517,34 @@
                   "quantified-self",
                   "time-tracker",
                   "time-tracking"
+                ]
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
+            },
+            {
+              "node_type": "item",
+              "title": "aw-watcher-jetbrains",
+              "description": "For all JetBrains IDEs by @OlivierMary (JetBrains Marketplace)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This extension allows the open source tracking tool ActivityWatch to keep track of the projects and coding languages you use in jetbrains IDEs.",
+                "homepage": "https://plugins.jetbrains.com/plugin/11361-activity-watcher",
+                "id": 158618728,
+                "language": "Java",
+                "license": "MIT",
+                "last_commit": "2024-07-08T23:06:58Z",
+                "open_issues": 9,
+                "owner": "OlivierMary",
+                "repo": "aw-watcher-jetbrains",
+                "stars": 89,
+                "topics": [
+                  "activity",
+                  "activitywatch",
+                  "activitywatch-watcher",
+                  "idea",
+                  "idea-plugin",
+                  "jetbrains"
                 ]
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -544,34 +572,6 @@
             },
             {
               "node_type": "item",
-              "title": "aw-watcher-jetbrains",
-              "description": "For all JetBrains IDEs by @OlivierMary (JetBrains Marketplace)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This extension allows the open source tracking tool ActivityWatch to keep track of the projects and coding languages you use in jetbrains IDEs.",
-                "homepage": "https://plugins.jetbrains.com/plugin/11361-activity-watcher",
-                "id": 158618728,
-                "language": "Java",
-                "license": "MIT",
-                "last_commit": "2024-07-08T23:06:58Z",
-                "open_issues": 8,
-                "owner": "OlivierMary",
-                "repo": "aw-watcher-jetbrains",
-                "stars": 88,
-                "topics": [
-                  "activity",
-                  "activitywatch",
-                  "activitywatch-watcher",
-                  "idea",
-                  "idea-plugin",
-                  "jetbrains"
-                ]
-              },
-              "first_seen": "2026-08-29T01:49:08.072Z"
-            },
-            {
-              "node_type": "item",
               "title": "ActivityWatchVS",
               "description": "Visual Studio extension by @LaggAt",
               "children": [],
@@ -586,7 +586,7 @@
                 "open_issues": 6,
                 "owner": "LaggAt",
                 "repo": "ActivityWatchVS",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -607,7 +607,7 @@
                 "open_issues": 0,
                 "owner": "kostasdizas",
                 "repo": "aw-watcher-sublime",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -703,7 +703,7 @@
                 "open_issues": 12,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-spotify",
-                "stars": 88,
+                "stars": 89,
                 "topics": [
                   "activitywatch",
                   "activitywatch-watcher",
@@ -750,7 +750,7 @@
                 "open_issues": 0,
                 "owner": "0xbrayo",
                 "repo": "aw-watcher-lastfm",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -767,7 +767,7 @@
                 "id": 557568864,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2024-07-20T21:16:56Z",
+                "last_commit": "2026-10-19T17:25:13Z",
                 "open_issues": 1,
                 "owner": "RundownRhino",
                 "repo": "aw-watcher-mpv-sender",
@@ -842,10 +842,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-14T08:25:25Z",
-                "open_issues": 16,
+                "open_issues": 15,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-input",
-                "stars": 172,
+                "stars": 173,
                 "topics": [
                   "activitywatch",
                   "activitywatch-watcher",
@@ -872,7 +872,7 @@
                 "open_issues": 10,
                 "owner": "Alwinator",
                 "repo": "aw-watcher-utilization",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -893,7 +893,7 @@
                 "open_issues": 6,
                 "owner": "akohlbecker",
                 "repo": "aw-watcher-tmux",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -914,7 +914,7 @@
                 "open_issues": 0,
                 "owner": "bcbernardo",
                 "repo": "aw-watcher-ask",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -1003,7 +1003,7 @@
                 "open_issues": 0,
                 "owner": "sameersismail",
                 "repo": "aw-watcher-netstatus",
-                "stars": 29,
+                "stars": 30,
                 "topics": [
                   "activitywatch",
                   "activitywatch-watcher"
@@ -1101,7 +1101,7 @@
             "open_issues": 8,
             "owner": "ActivityWatch",
             "repo": "aw-import-screentime",
-            "stars": 92,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
@@ -1229,8 +1229,8 @@
             "id": 152148256,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-18T16:36:43Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-19T18:34:07Z",
+            "open_issues": 38,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 317,
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T20:56:16.639Z",
+    "last_updated": "2026-10-19T22:31:41.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
