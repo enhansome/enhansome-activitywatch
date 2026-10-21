@@ -20,7 +20,7 @@ This list is just getting started. *Do you see anything missing? [Make a pull re
 
 The main ActivityWatch application and alternative implementations:
 
-* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 19,304 | 🐛 138 | 🌐 Python | 📅 2026-10-18) - The official distribution, includes:
+* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 19,319 | 🐛 139 | 🌐 Python | 📅 2026-10-18) - The official distribution, includes:
   * aw-qt (tray application)
   * aw-server & aw-server-rust (storage and API)
   * aw-watcher-window (window tracking)
@@ -28,7 +28,7 @@ The main ActivityWatch application and alternative implementations:
   * aw-watcher-input (keyboard/mouse usage)
   * aw-sync (data syncing)
   * aw-notify (notifications)
-* [aw-tauri](https://github.com/ActivityWatch/aw-tauri) ⭐ 70 | 🐛 13 | 🌐 Rust | 📅 2026-10-17 (WIP), experimental/alternative distribution of ActivityWatch using Tauri
+* [aw-tauri](https://github.com/ActivityWatch/aw-tauri) ⭐ 70 | 🐛 15 | 🌐 Rust | 📅 2026-10-21 (WIP), experimental/alternative distribution of ActivityWatch using Tauri
 * [yet-another-UI-for-AW](https://github.com/K-Kuyama/yet-another-UI-for-AW/) ⭐ 10 | 🐛 6 | 🌐 Python | 📅 2024-01-31, a native UI for ActivityWatch with Japanese localization ([announcement forum post](https://forum.activitywatch.net/t/another-gui-client-for-aw/2748))
 * [Codewatch](https://github.com/jca41/codewatch) ⭐ 7 | 🐛 5 | 🌐 Svelte | 📅 2023-06-05, desktop client for ActivityWatch focused on software development and productivity.
 * [Workflow](https://flathub.org/apps/com.gitlab.cunidev.Workflow), basic screentime application using GTK
@@ -43,14 +43,14 @@ The main ActivityWatch application and alternative implementations:
 
 ActivityWatch has a modular architecture that includes a server component for storing and analyzing the collected data.
 
-* [aw-server-rust](https://github.com/ActivityWatch/aw-server-rust) ⭐ 317 | 🐛 45 | 🌐 Rust | 📅 2026-10-19, an official server implementation written in Rust for improved performance
+* [aw-server-rust](https://github.com/ActivityWatch/aw-server-rust) ⭐ 317 | 🐛 46 | 🌐 Rust | 📅 2026-10-19, an official server implementation written in Rust for improved performance
 * [aw-server](https://github.com/ActivityWatch/aw-server) ⭐ 128 | 🐛 25 | 🌐 Python | 📅 2026-10-19, an official server implementation written in Python
 
 # Client Libraries
 
 The ActivityWatch ecosystem provides client libraries to help developers interact with the ActivityWatch server API and create custom watchers, integrations, extensions, or applications. Here are the official client libraries:
 
-* [aw-client-rust](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-client-rust) ⭐ 317 | 🐛 45 | 🌐 Rust | 📅 2026-10-19, a client library written in Rust
+* [aw-client-rust](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-client-rust) ⭐ 317 | 🐛 46 | 🌐 Rust | 📅 2026-10-19, a client library written in Rust
 * [aw-client](https://github.com/ActivityWatch/aw-client) ⭐ 72 | 🐛 11 | 🌐 Python | 📅 2026-10-19, a client library written in Python
 * [aw-client-js](https://github.com/ActivityWatch/aw-client-js) ⭐ 40 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-16, a client library written in JavaScript/TypeScript
 
@@ -68,7 +68,7 @@ ActivityWatch comes with two watchers enabled by default:
 
 ## Window Watchers :desktop\_computer:
 
-* [awatcher](https://github.com/2e3s/awatcher) ⭐ 317 | 🐛 30 | 🌐 Rust | 📅 2026-09-23 - A compiled watcher for X11 and Wayland by @2e3s
+* [awatcher](https://github.com/2e3s/awatcher) ⭐ 317 | 🐛 31 | 🌐 Rust | 📅 2026-09-23 - A compiled watcher for X11 and Wayland by @2e3s
 * [aw-watcher-window](https://github.com/ActivityWatch/aw-watcher-window) ⭐ 131 | 🐛 31 | 🌐 Python | 📅 2026-10-19 - The official window watcher for Windows, macOS, and Linux (X11)
 * [aw-watcher-window-wayland](https://github.com/ActivityWatch/aw-watcher-window-wayland) ⭐ 102 | 🐛 14 | 🌐 Rust | 📅 2026-10-16 - Window watcher for Wayland by @johan-bjareholt
 * [aw-watcher-enhanced](https://github.com/kepptic/aw-watcher-enhanced) ⭐ 10 | 🐛 2 | 🌐 Rust | 📅 2026-10-10 - Enhanced window watcher with OCR screen capture, LLM-powered context extraction (via Ollama), smart idle detection, and remote desktop support by @kepptic
@@ -79,7 +79,7 @@ ActivityWatch comes with two watchers enabled by default:
 
 ## Editor Watchers :pencil2:
 
-* [aw-watcher-vscode](https://github.com/ActivityWatch/aw-watcher-vscode) ⭐ 284 | 🐛 23 | 🌐 TypeScript | 📅 2024-01-12 - Visual Studio Code extension by @Otto-AA
+* [aw-watcher-vscode](https://github.com/ActivityWatch/aw-watcher-vscode) ⭐ 284 | 🐛 25 | 🌐 TypeScript | 📅 2024-01-12 - Visual Studio Code extension by @Otto-AA
 * [aw-watcher-vim](https://github.com/ActivityWatch/aw-watcher-vim) ⭐ 124 | 🐛 7 | 🌐 Vim Script | 📅 2023-10-09 - Vim extension by @johan-bjareholt and @ahnlabb
 * [aw-watcher-obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian) ⭐ 117 | 🐛 9 | 🌐 TypeScript | 📅 2023-02-23 - Obsidian.md extension by @LordGrimmauld
 * [aw-watcher-jetbrains](https://github.com/OlivierMary/aw-watcher-jetbrains) ⭐ 89 | 🐛 9 | 🌐 Java | 📅 2024-07-08 - For all JetBrains IDEs by @OlivierMary ([JetBrains Marketplace](https://plugins.jetbrains.com/plugin/11361-activity-watcher))
@@ -123,7 +123,7 @@ Have you written a watcher? Submit a PR to have it included here!
 
 Tools for migrating historical time tracking data from other tools into ActivityWatch:
 
-* [aw-import-screentime](https://github.com/ActivityWatch/aw-import-screentime) ⭐ 95 | 🐛 8 | 🌐 Python | 📅 2026-07-27 - Import macOS Screen Time data into ActivityWatch (official)
+* [aw-import-screentime](https://github.com/ActivityWatch/aw-import-screentime) ⭐ 96 | 🐛 8 | 🌐 Python | 📅 2026-07-27 - Import macOS Screen Time data into ActivityWatch (official)
 * [aw-import-toggl](https://github.com/TimeToBuildBob/aw-import-toggl) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-11 - Import Toggl Track time entries from CSV export into ActivityWatch
 * [aw-import-rescuetime](https://github.com/TimeToBuildBob/aw-import-rescuetime) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-11 - Import RescueTime activity data from CSV export into ActivityWatch
 * [aw-import-manictime](https://github.com/TimeToBuildBob/aw-import-manictime) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-11 - Import ManicTime data directly from its SQLite database into ActivityWatch
@@ -132,7 +132,7 @@ Tools for migrating historical time tracking data from other tools into Activity
 
 # Sync
 
-* [aw-sync](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-sync) ⭐ 317 | 🐛 45 | 🌐 Rust | 📅 2026-10-19, the official sync-with-folder/bring-your-own-sync solution for ActivityWatch
+* [aw-sync](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-sync) ⭐ 317 | 🐛 46 | 🌐 Rust | 📅 2026-10-19, the official sync-with-folder/bring-your-own-sync solution for ActivityWatch
 * [aw-sync-suite](https://github.com/phrp720/aw-sync-suite) ⭐ 41 | 🐛 1 | 🌐 Go | 📅 2026-08-21, a centralized sync solution backed by Prometheus and visualized with Grafana, by @phrp720
 * [activitywatch-exporter](https://github.com/rare-magma/activitywatch-exporter) ⚠️ Archived, CLI tool that uploads the ActivityWatch data from the aw-server API to InfluxDB on a daily basis
 
@@ -166,11 +166,11 @@ Thank you for supporting ActivityWatch and helping it stay afloat financially as
 
 # Other links :link:
 
-* [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) ⭐ 2,795 | 🐛 56 | 📅 2026-07-06, a list of awesome quantified self resources
+* [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) ⭐ 2,797 | 🐛 56 | 📅 2026-07-06, a list of awesome quantified self resources
 * [Superuser Labs](https://superuserlabs.org/), company owned and run by founder Erik Bjäreholt for consulting and other ActivityWatch-related services (among other things).
   * [LinkedIn](https://www.linkedin.com/company/superuser-labs/)
   * [Twitter](https://twitter.com/SuperusrLabs)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
