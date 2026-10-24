@@ -19,7 +19,7 @@
             "open_issues": 139,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 19358,
+            "stars": 19359,
             "topics": [
               "activitywatch",
               "afk",
@@ -50,7 +50,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-21T03:53:18Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "ActivityWatch",
             "repo": "aw-tauri",
             "stars": 69,
@@ -124,7 +124,7 @@
             "open_issues": 50,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 319,
+            "stars": 320,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -185,7 +185,7 @@
             "open_issues": 50,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 319,
+            "stars": 320,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -666,15 +666,15 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "ActivityWatch (https://github.com/ActivityWatch/activitywatch) plugin for NetBeans 8.2",
+                "description": "ActivityWatch (https://github.com/ActivityWatch/activitywatch) plugin for NetBeans",
                 "homepage": null,
                 "id": 444918566,
                 "language": "Java",
-                "license": null,
-                "last_commit": "2022-04-11T08:11:16Z",
+                "license": "MIT",
+                "last_commit": "2026-10-24T16:20:13Z",
                 "open_issues": 0,
                 "owner": "pytlus93",
-                "repo": "AwWatcherNetBeans82",
+                "repo": "aw-watcher-netbeans",
                 "stars": 0,
                 "topics": []
               },
@@ -1233,7 +1233,7 @@
             "open_issues": 50,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 319,
+            "stars": 320,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T21:33:35.536Z",
+    "last_updated": "2026-10-24T21:01:31.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
