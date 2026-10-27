@@ -20,7 +20,7 @@ This list is just getting started. *Do you see anything missing? [Make a pull re
 
 The main ActivityWatch application and alternative implementations:
 
-* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 19,376 | 🐛 137 | 🌐 Python | 📅 2026-10-26) - The official distribution, includes:
+* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 19,395 | 🐛 137 | 🌐 Python | 📅 2026-10-26) - The official distribution, includes:
   * aw-qt (tray application)
   * aw-server & aw-server-rust (storage and API)
   * aw-watcher-window (window tracking)
@@ -75,7 +75,7 @@ ActivityWatch comes with two watchers enabled by default:
 
 ## Browser Watchers :globe\_with\_meridians:
 
-* [aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) ⭐ 571 | 🐛 51 | 🌐 TypeScript | 📅 2026-10-26 - Official browser extension for Chrome, Edge, and Firefox
+* [aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) ⭐ 573 | 🐛 51 | 🌐 TypeScript | 📅 2026-10-26 - Official browser extension for Chrome, Edge, and Firefox
 
 ## Editor Watchers :pencil2:
 
@@ -102,11 +102,11 @@ ActivityWatch comes with two watchers enabled by default:
 ## Other Watchers :gear:
 
 * [aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input) ⭐ 173 | 🐛 15 | 🌐 Python | 📅 2026-10-14 - Tracks keyboard/mouse usage statistics
-* [aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) ⭐ 114 | 🐛 10 | 🌐 Python | 📅 2026-01-08 - System resource monitoring by @Alwinator
+* [aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) ⭐ 115 | 🐛 10 | 🌐 Python | 📅 2026-01-08 - System resource monitoring by @Alwinator
 * [aw-watcher-tmux](https://github.com/akohlbecker/aw-watcher-tmux) ⭐ 95 | 🐛 6 | 🌐 Shell | 📅 2024-02-05 - Monitors tmux sessions by @akohlbecker
 * [aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) ⭐ 95 | 🐛 0 | 🌐 Python | 📅 2026-09-12 - Periodically asks user questions (WIP)
 * [aw-watcher-table](https://github.com/Alwinator/aw-watcher-table) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2023-11-20 - Monitors height-adjustable desk position by @Alwinator
-* [aw-watcher-steam](https://github.com/Edwardsoen/aw-watcher-steam) ⭐ 40 | 🐛 6 | 🌐 Python | 📅 2025-06-16 - Tracks Steam gaming sessions
+* [aw-watcher-steam](https://github.com/Edwardsoen/aw-watcher-steam) ⭐ 41 | 🐛 6 | 🌐 Python | 📅 2025-06-16 - Tracks Steam gaming sessions
 * [aw-watcher-anki](https://github.com/abdnh/aw-watcher-anki) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2023-11-02 - Tracks Anki flashcard review time
 * [aw-watcher-netstatus](https://github.com/sameersismail/aw-watcher-netstatus) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2023-01-31 - Network connectivity monitoring by @sameersismail
 * [aw-watcher-toggl](https://github.com/RTnhN/aw-watcher-toggl) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-08-28 - Imports time entries from Toggl
@@ -173,4 +173,4 @@ Thank you for supporting ActivityWatch and helping it stay afloat financially as
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
