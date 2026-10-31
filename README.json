@@ -19,7 +19,7 @@
             "open_issues": 138,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 19439,
+            "stars": 19452,
             "topics": [
               "activitywatch",
               "afk",
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T22:32:31.822Z",
+    "last_updated": "2026-10-31T21:46:56.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
