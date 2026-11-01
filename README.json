@@ -15,11 +15,11 @@
             "id": 57224308,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-26T17:56:17Z",
-            "open_issues": 138,
+            "last_commit": "2026-11-01T13:12:51Z",
+            "open_issues": 144,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 19452,
+            "stars": 19464,
             "topics": [
               "activitywatch",
               "afk",
@@ -148,11 +148,11 @@
             "id": 55904087,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-26T21:07:18Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-01T21:03:36Z",
+            "open_issues": 38,
             "owner": "ActivityWatch",
             "repo": "aw-server",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "activitywatch",
               "python",
@@ -267,8 +267,8 @@
             "id": 66086574,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-19T10:59:45Z",
-            "open_issues": 36,
+            "last_commit": "2026-11-01T14:50:39Z",
+            "open_issues": 34,
             "owner": "ActivityWatch",
             "repo": "aw-watcher-window",
             "stars": 131,
@@ -346,8 +346,8 @@
                 "id": 66086574,
                 "language": "Python",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-19T10:59:45Z",
-                "open_issues": 36,
+                "last_commit": "2026-11-01T14:50:39Z",
+                "open_issues": 34,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-window",
                 "stars": 131,
@@ -460,7 +460,7 @@
                 "open_issues": 25,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-vscode",
-                "stars": 286,
+                "stars": 285,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -729,7 +729,7 @@
                 "open_issues": 5,
                 "owner": "2e3s",
                 "repo": "aw-watcher-media-player",
-                "stars": 76,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -839,10 +839,10 @@
                 "description": "Track your keypresses and mouse movements with ActivityWatch",
                 "homepage": null,
                 "id": 315298527,
-                "language": "Python",
+                "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-14T08:25:25Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-01T14:41:22Z",
+                "open_issues": 13,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-input",
                 "stars": 173,
@@ -872,7 +872,7 @@
                 "open_issues": 10,
                 "owner": "Alwinator",
                 "repo": "aw-watcher-utilization",
-                "stars": 115,
+                "stars": 116,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T21:46:56.193Z",
+    "last_updated": "2026-11-01T22:14:21.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
