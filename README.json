@@ -19,7 +19,7 @@
             "open_issues": 144,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 19481,
+            "stars": 19490,
             "topics": [
               "activitywatch",
               "afk",
@@ -121,10 +121,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-11-01T23:53:01Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 320,
+            "stars": 321,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -182,10 +182,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-11-01T23:53:01Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 320,
+            "stars": 321,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -604,7 +604,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-17T20:54:40Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "kostasdizas",
                 "repo": "aw-watcher-sublime",
                 "stars": 18,
@@ -1230,10 +1230,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-11-01T23:53:01Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 320,
+            "stars": 321,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -1261,7 +1261,7 @@
             "open_issues": 1,
             "owner": "phrp720",
             "repo": "aw-sync-suite",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "activitywatch",
               "analytics",
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:07:59.319Z",
+    "last_updated": "2026-11-03T23:32:56.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
