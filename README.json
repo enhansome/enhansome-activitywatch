@@ -19,7 +19,7 @@
             "open_issues": 144,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 19464,
+            "stars": 19481,
             "topics": [
               "activitywatch",
               "afk",
@@ -120,8 +120,8 @@
             "id": 152148256,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-26T17:59:45Z",
-            "open_issues": 48,
+            "last_commit": "2026-11-01T23:53:01Z",
+            "open_issues": 50,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 320,
@@ -148,8 +148,8 @@
             "id": 55904087,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-01T21:03:36Z",
-            "open_issues": 38,
+            "last_commit": "2026-11-02T21:03:52Z",
+            "open_issues": 40,
             "owner": "ActivityWatch",
             "repo": "aw-server",
             "stars": 129,
@@ -181,8 +181,8 @@
             "id": 152148256,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-26T17:59:45Z",
-            "open_issues": 48,
+            "last_commit": "2026-11-01T23:53:01Z",
+            "open_issues": 50,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 320,
@@ -322,10 +322,10 @@
                 "language": "Rust",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-23T04:33:37Z",
-                "open_issues": 31,
+                "open_issues": 33,
                 "owner": "2e3s",
                 "repo": "awatcher",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "productivity",
                   "self-tracking",
@@ -397,7 +397,7 @@
                 "open_issues": 2,
                 "owner": "kepptic",
                 "repo": "aw-watcher-enhanced",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -1048,7 +1048,7 @@
                 "open_issues": 0,
                 "owner": "InertialG",
                 "repo": "aw-watcher-screenshot",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -1229,8 +1229,8 @@
             "id": 152148256,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-26T17:59:45Z",
-            "open_issues": 48,
+            "last_commit": "2026-11-01T23:53:01Z",
+            "open_issues": 50,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 320,
@@ -1261,7 +1261,7 @@
             "open_issues": 1,
             "owner": "phrp720",
             "repo": "aw-sync-suite",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "activitywatch",
               "analytics",
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:14:21.679Z",
+    "last_updated": "2026-11-03T01:07:59.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
@@ -1323,7 +1323,7 @@
       "open_issues": 5,
       "owner": "ActivityWatch",
       "repo": "awesome-activitywatch",
-      "stars": 181,
+      "stars": 182,
       "topics": [
         "activitywatch",
         "awesome",
