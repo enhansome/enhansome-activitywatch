@@ -15,11 +15,11 @@
             "id": 57224308,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-01T13:12:51Z",
-            "open_issues": 144,
+            "last_commit": "2026-11-04T13:56:01Z",
+            "open_issues": 139,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 19490,
+            "stars": 19506,
             "topics": [
               "activitywatch",
               "afk",
@@ -121,7 +121,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-11-01T23:53:01Z",
-            "open_issues": 51,
+            "open_issues": 53,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 321,
@@ -182,7 +182,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-11-01T23:53:01Z",
-            "open_issues": 51,
+            "open_issues": 53,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 321,
@@ -267,8 +267,8 @@
             "id": 66086574,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-01T14:50:39Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-04T14:02:23Z",
+            "open_issues": 28,
             "owner": "ActivityWatch",
             "repo": "aw-watcher-window",
             "stars": 131,
@@ -346,8 +346,8 @@
                 "id": 66086574,
                 "language": "Python",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-01T14:50:39Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-04T14:02:23Z",
+                "open_issues": 28,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-window",
                 "stars": 131,
@@ -422,7 +422,7 @@
                 "language": "TypeScript",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-26T18:24:36Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-web",
                 "stars": 574,
@@ -523,6 +523,27 @@
             },
             {
               "node_type": "item",
+              "title": "activity-watch-mode",
+              "description": "Emacs mode by @pauldub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Emacs plugin for automatic time tracking and metrics generated from your programming activity.",
+                "homepage": "https://activitywatch.net",
+                "id": 153078690,
+                "language": "Emacs Lisp",
+                "license": null,
+                "last_commit": "2026-03-18T19:08:36Z",
+                "open_issues": 9,
+                "owner": "pauldub",
+                "repo": "activity-watch-mode",
+                "stars": 89,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
+            },
+            {
+              "node_type": "item",
               "title": "aw-watcher-jetbrains",
               "description": "For all JetBrains IDEs by @OlivierMary (JetBrains Marketplace)",
               "children": [],
@@ -546,27 +567,6 @@
                   "idea-plugin",
                   "jetbrains"
                 ]
-              },
-              "first_seen": "2026-08-29T01:49:08.072Z"
-            },
-            {
-              "node_type": "item",
-              "title": "activity-watch-mode",
-              "description": "Emacs mode by @pauldub",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Emacs plugin for automatic time tracking and metrics generated from your programming activity.",
-                "homepage": "https://activitywatch.net",
-                "id": 153078690,
-                "language": "Emacs Lisp",
-                "license": null,
-                "last_commit": "2026-03-18T19:08:36Z",
-                "open_issues": 9,
-                "owner": "pauldub",
-                "repo": "activity-watch-mode",
-                "stars": 88,
-                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -1101,7 +1101,7 @@
             "open_issues": 8,
             "owner": "ActivityWatch",
             "repo": "aw-import-screentime",
-            "stars": 96,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
@@ -1230,7 +1230,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-11-01T23:53:01Z",
-            "open_issues": 51,
+            "open_issues": 53,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 321,
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T23:32:56.176Z",
+    "last_updated": "2026-11-04T23:50:55.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
@@ -1323,7 +1323,7 @@
       "open_issues": 5,
       "owner": "ActivityWatch",
       "repo": "awesome-activitywatch",
-      "stars": 182,
+      "stars": 183,
       "topics": [
         "activitywatch",
         "awesome",
