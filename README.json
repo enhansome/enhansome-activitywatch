@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MPL-2.0",
             "last_commit": "2026-11-06T14:22:20Z",
-            "open_issues": 138,
+            "open_issues": 137,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 19548,
+            "stars": 19563,
             "topics": [
               "activitywatch",
               "afk",
@@ -210,10 +210,10 @@
             "language": "Python",
             "license": "MPL-2.0",
             "last_commit": "2026-11-07T19:17:07Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "ActivityWatch",
             "repo": "aw-client",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "activitywatch",
               "client",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:09:35.396Z",
+    "last_updated": "2026-11-08T22:19:26.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",

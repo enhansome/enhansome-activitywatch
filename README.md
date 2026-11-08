@@ -20,7 +20,7 @@ This list is just getting started. *Do you see anything missing? [Make a pull re
 
 The main ActivityWatch application and alternative implementations:
 
-* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 19,548 | 🐛 138 | 🌐 Python | 📅 2026-11-06) - The official distribution, includes:
+* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 19,563 | 🐛 137 | 🌐 Python | 📅 2026-11-06) - The official distribution, includes:
   * aw-qt (tray application)
   * aw-server & aw-server-rust (storage and API)
   * aw-watcher-window (window tracking)
@@ -51,7 +51,7 @@ ActivityWatch has a modular architecture that includes a server component for st
 The ActivityWatch ecosystem provides client libraries to help developers interact with the ActivityWatch server API and create custom watchers, integrations, extensions, or applications. Here are the official client libraries:
 
 * [aw-client-rust](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-client-rust) ⭐ 321 | 🐛 54 | 🌐 Rust | 📅 2026-11-06, a client library written in Rust
-* [aw-client](https://github.com/ActivityWatch/aw-client) ⭐ 72 | 🐛 24 | 🌐 Python | 📅 2026-11-07, a client library written in Python
+* [aw-client](https://github.com/ActivityWatch/aw-client) ⭐ 73 | 🐛 25 | 🌐 Python | 📅 2026-11-07, a client library written in Python
 * [aw-client-js](https://github.com/ActivityWatch/aw-client-js) ⭐ 40 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-07, a client library written in JavaScript/TypeScript
 
 # Desktop Widgets :desktop\_computer:
@@ -178,4 +178,4 @@ Thank you for supporting ActivityWatch and helping it stay afloat financially as
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
