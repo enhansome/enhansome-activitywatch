@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MPL-2.0",
             "last_commit": "2026-11-09T16:13:02Z",
-            "open_issues": 136,
+            "open_issues": 135,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 19573,
+            "stars": 19591,
             "topics": [
               "activitywatch",
               "afk",
@@ -50,7 +50,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-11-09T15:14:27Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "ActivityWatch",
             "repo": "aw-tauri",
             "stars": 70,
@@ -101,6 +101,35 @@
             ]
           },
           "first_seen": "2026-08-29T01:49:08.072Z"
+        },
+        {
+          "node_type": "item",
+          "title": "timetrace",
+          "description": ", a macOS dashboard that merges ActivityWatch window data with iPhone/iPad Screen Time (via aw-import-screentime), sorts time by project and value, and exposes it to AI agents through a CLI and MCP server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Automatic time tracking across Mac, iPhone and iPad — by purpose and value, with a local dashboard and a CLI/MCP server for AI agents. A companion to ActivityWatch.",
+            "homepage": "https://github.com/vvyssen/timetrace#readme",
+            "id": 1449141875,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-08T14:43:54Z",
+            "open_issues": 0,
+            "owner": "vvyssen",
+            "repo": "timetrace",
+            "stars": 0,
+            "topics": [
+              "activitywatch",
+              "ai-agents",
+              "iphone",
+              "macos",
+              "mcp",
+              "screen-time",
+              "time-tracking"
+            ]
+          },
+          "first_seen": "2026-11-10T23:37:17.175Z"
         }
       ],
       "title": "Applications"
@@ -124,7 +153,7 @@
             "open_issues": 54,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -149,7 +178,7 @@
             "language": "Python",
             "license": "MPL-2.0",
             "last_commit": "2026-11-09T14:52:33Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "ActivityWatch",
             "repo": "aw-server",
             "stars": 129,
@@ -185,7 +214,7 @@
             "open_issues": 54,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -210,7 +239,7 @@
             "language": "Python",
             "license": "MPL-2.0",
             "last_commit": "2026-11-07T19:17:07Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "ActivityWatch",
             "repo": "aw-client",
             "stars": 73,
@@ -268,7 +297,7 @@
             "language": "Python",
             "license": "MPL-2.0",
             "last_commit": "2026-11-04T14:02:23Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "ActivityWatch",
             "repo": "aw-watcher-window",
             "stars": 131,
@@ -347,7 +376,7 @@
                 "language": "Python",
                 "license": "MPL-2.0",
                 "last_commit": "2026-11-04T14:02:23Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-window",
                 "stars": 131,
@@ -422,7 +451,7 @@
                 "language": "TypeScript",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-26T18:24:36Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-web",
                 "stars": 575,
@@ -554,8 +583,8 @@
                 "id": 158618728,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2024-07-08T23:06:58Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-10T12:18:48Z",
+                "open_issues": 8,
                 "owner": "OlivierMary",
                 "repo": "aw-watcher-jetbrains",
                 "stars": 89,
@@ -1344,7 +1373,7 @@
             "open_issues": 54,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -1422,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T01:41:45.075Z",
+    "last_updated": "2026-11-10T23:37:17.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
@@ -1430,7 +1459,7 @@
       "id": 634528093,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-06T14:37:55Z",
+      "last_commit": "2026-11-10T17:32:03Z",
       "open_issues": 1,
       "owner": "ActivityWatch",
       "repo": "awesome-activitywatch",
@@ -1443,7 +1472,7 @@
         "time-tracking"
       ]
     },
-    "original_repository_sha": "270d5f7667cd8b7f51360673c5e2018bac6ca5a0",
+    "original_repository_sha": "8c065e5861d1c1af84e793fd6887eea922f85b38",
     "enhanced_repository": "enhansome/enhansome-activitywatch",
     "enhanced_repository_description": null,
     "title": "Awesome ActivityWatch :star2: :fire: with stars"
