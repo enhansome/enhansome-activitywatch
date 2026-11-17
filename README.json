@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MPL-2.0",
             "last_commit": "2026-11-15T18:40:38Z",
-            "open_issues": 136,
+            "open_issues": 135,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 19638,
+            "stars": 19657,
             "topics": [
               "activitywatch",
               "afk",
@@ -323,7 +323,7 @@
             "language": "Python",
             "license": "MPL-2.0",
             "last_commit": "2026-11-06T14:39:05Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "ActivityWatch",
             "repo": "aw-watcher-afk",
             "stars": 77,
@@ -405,7 +405,7 @@
                 "open_issues": 15,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-window-wayland",
-                "stars": 102,
+                "stars": 103,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -891,7 +891,7 @@
                 "id": 315298527,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-01T14:41:22Z",
+                "last_commit": "2026-11-16T20:06:39Z",
                 "open_issues": 13,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-input",
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T23:01:58.818Z",
+    "last_updated": "2026-11-17T01:56:04.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
