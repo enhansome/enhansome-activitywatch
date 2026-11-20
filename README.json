@@ -15,11 +15,11 @@
             "id": 57224308,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-15T18:40:38Z",
+            "last_commit": "2026-11-19T12:03:35Z",
             "open_issues": 132,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 19728,
+            "stars": 19749,
             "topics": [
               "activitywatch",
               "afk",
@@ -150,10 +150,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-11-18T17:37:52Z",
-            "open_issues": 51,
+            "open_issues": 50,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 323,
+            "stars": 322,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -211,10 +211,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-11-18T17:37:52Z",
-            "open_issues": 51,
+            "open_issues": 50,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 323,
+            "stars": 322,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -351,7 +351,7 @@
                 "language": "Rust",
                 "license": "MPL-2.0",
                 "last_commit": "2026-11-05T04:17:50Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "2e3s",
                 "repo": "awatcher",
                 "stars": 319,
@@ -454,7 +454,7 @@
                 "open_issues": 54,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-web",
-                "stars": 580,
+                "stars": 581,
                 "topics": [
                   "activitywatch",
                   "chrome-extension",
@@ -552,6 +552,34 @@
             },
             {
               "node_type": "item",
+              "title": "aw-watcher-jetbrains",
+              "description": "For all JetBrains IDEs by @OlivierMary (JetBrains Marketplace)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This extension allows the open source tracking tool ActivityWatch to keep track of the projects and coding languages you use in jetbrains IDEs.",
+                "homepage": "https://plugins.jetbrains.com/plugin/11361-activity-watcher",
+                "id": 158618728,
+                "language": "Java",
+                "license": "MIT",
+                "last_commit": "2026-11-10T12:18:48Z",
+                "open_issues": 8,
+                "owner": "OlivierMary",
+                "repo": "aw-watcher-jetbrains",
+                "stars": 90,
+                "topics": [
+                  "activity",
+                  "activitywatch",
+                  "activitywatch-watcher",
+                  "idea",
+                  "idea-plugin",
+                  "jetbrains"
+                ]
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
+            },
+            {
+              "node_type": "item",
               "title": "activity-watch-mode",
               "description": "Emacs mode by @pauldub",
               "children": [],
@@ -568,34 +596,6 @@
                 "repo": "activity-watch-mode",
                 "stars": 89,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T01:49:08.072Z"
-            },
-            {
-              "node_type": "item",
-              "title": "aw-watcher-jetbrains",
-              "description": "For all JetBrains IDEs by @OlivierMary (JetBrains Marketplace)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This extension allows the open source tracking tool ActivityWatch to keep track of the projects and coding languages you use in jetbrains IDEs.",
-                "homepage": "https://plugins.jetbrains.com/plugin/11361-activity-watcher",
-                "id": 158618728,
-                "language": "Java",
-                "license": "MIT",
-                "last_commit": "2026-11-10T12:18:48Z",
-                "open_issues": 8,
-                "owner": "OlivierMary",
-                "repo": "aw-watcher-jetbrains",
-                "stars": 89,
-                "topics": [
-                  "activity",
-                  "activitywatch",
-                  "activitywatch-watcher",
-                  "idea",
-                  "idea-plugin",
-                  "jetbrains"
-                ]
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -1370,10 +1370,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-11-18T17:37:52Z",
-            "open_issues": 51,
+            "open_issues": 50,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
-            "stars": 323,
+            "stars": 322,
             "topics": [
               "activitywatch",
               "rest-api",
@@ -1401,7 +1401,7 @@
             "open_issues": 1,
             "owner": "phrp720",
             "repo": "aw-sync-suite",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "activitywatch",
               "analytics",
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:37:50.609Z",
+    "last_updated": "2026-11-20T00:45:31.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
