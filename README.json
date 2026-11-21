@@ -19,7 +19,7 @@
             "open_issues": 132,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 19749,
+            "stars": 19761,
             "topics": [
               "activitywatch",
               "afk",
@@ -454,7 +454,7 @@
                 "open_issues": 54,
                 "owner": "ActivityWatch",
                 "repo": "aw-watcher-web",
-                "stars": 581,
+                "stars": 583,
                 "topics": [
                   "activitywatch",
                   "chrome-extension",
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T00:45:31.845Z",
+    "last_updated": "2026-11-21T00:04:59.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
