@@ -20,7 +20,7 @@ This list is just getting started. *Do you see anything missing? [Make a pull re
 
 The main ActivityWatch application and alternative implementations:
 
-* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 19,769 | 🐛 133 | 🌐 Python | 📅 2026-11-21) - The official distribution, includes:
+* **ActivityWatch** ([releases](https://github.com/ActivityWatch/activitywatch/releases) ⭐ 19,785 | 🐛 130 | 🌐 Python | 📅 2026-11-22) - The official distribution, includes:
   * aw-qt (tray application)
   * aw-server & aw-server-rust (storage and API)
   * aw-watcher-window (window tracking)
@@ -44,14 +44,14 @@ The main ActivityWatch application and alternative implementations:
 
 ActivityWatch has a modular architecture that includes a server component for storing and analyzing the collected data.
 
-* [aw-server-rust](https://github.com/ActivityWatch/aw-server-rust) ⭐ 322 | 🐛 51 | 🌐 Rust | 📅 2026-11-18, an official server implementation written in Rust for improved performance
+* [aw-server-rust](https://github.com/ActivityWatch/aw-server-rust) ⭐ 322 | 🐛 50 | 🌐 Rust | 📅 2026-11-22, an official server implementation written in Rust for improved performance
 * [aw-server](https://github.com/ActivityWatch/aw-server) ⭐ 129 | 🐛 27 | 🌐 Python | 📅 2026-11-18, an official server implementation written in Python
 
 # Client Libraries
 
 The ActivityWatch ecosystem provides client libraries to help developers interact with the ActivityWatch server API and create custom watchers, integrations, extensions, or applications. Here are the official client libraries:
 
-* [aw-client-rust](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-client-rust) ⭐ 322 | 🐛 51 | 🌐 Rust | 📅 2026-11-18, a client library written in Rust
+* [aw-client-rust](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-client-rust) ⭐ 322 | 🐛 50 | 🌐 Rust | 📅 2026-11-22, a client library written in Rust
 * [aw-client](https://github.com/ActivityWatch/aw-client) ⭐ 73 | 🐛 20 | 🌐 Python | 📅 2026-11-18, a client library written in Python
 * [aw-client-js](https://github.com/ActivityWatch/aw-client-js) ⭐ 40 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-10, a client library written in JavaScript/TypeScript
 
@@ -83,8 +83,8 @@ ActivityWatch comes with two watchers enabled by default:
 * [aw-watcher-vscode](https://github.com/ActivityWatch/aw-watcher-vscode) ⭐ 285 | 🐛 24 | 🌐 TypeScript | 📅 2024-01-12 - Visual Studio Code extension by @Otto-AA
 * [aw-watcher-vim](https://github.com/ActivityWatch/aw-watcher-vim) ⭐ 124 | 🐛 7 | 🌐 Vim Script | 📅 2023-10-09 - Vim extension by @johan-bjareholt and @ahnlabb
 * [aw-watcher-obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian) ⭐ 118 | 🐛 9 | 🌐 TypeScript | 📅 2023-02-23 - Obsidian.md extension by @LordGrimmauld
+* [activity-watch-mode](https://github.com/pauldub/activity-watch-mode) ⭐ 90 | 🐛 9 | 🌐 Emacs Lisp | 📅 2026-03-18 - Emacs mode by @pauldub
 * [aw-watcher-jetbrains](https://github.com/OlivierMary/aw-watcher-jetbrains) ⭐ 90 | 🐛 8 | 🌐 Java | 📅 2026-11-10 - For all JetBrains IDEs by @OlivierMary ([JetBrains Marketplace](https://plugins.jetbrains.com/plugin/11361-activity-watcher))
-* [activity-watch-mode](https://github.com/pauldub/activity-watch-mode) ⭐ 89 | 🐛 9 | 🌐 Emacs Lisp | 📅 2026-03-18 - Emacs mode by @pauldub
 * [ActivityWatchVS](https://github.com/LaggAt/ActivityWatchVS) ⭐ 36 | 🐛 6 | 🌐 C# | 📅 2025-01-07 - Visual Studio extension by @LaggAt
 * [aw-watcher-zed](https://github.com/sachk/aw-watcher-zed) ⭐ 32 | 🐛 0 | 🌐 Rust | 📅 2026-01-09 - Zed extension by @sachk
 * [aw-watcher-sublime](https://github.com/kostasdizas/aw-watcher-sublime) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2026-10-17 - Sublime Text 3 by @kostasdizas
@@ -106,7 +106,7 @@ ActivityWatch comes with two watchers enabled by default:
 * [aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input) ⭐ 174 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-17 - Tracks keyboard/mouse usage statistics
 * [aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) ⭐ 117 | 🐛 10 | 🌐 Python | 📅 2026-01-08 - System resource monitoring by @Alwinator
 * [aw-watcher-tmux](https://github.com/akohlbecker/aw-watcher-tmux) ⭐ 96 | 🐛 6 | 🌐 Shell | 📅 2024-02-05 - Monitors tmux sessions by @akohlbecker
-* [aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) ⭐ 95 | 🐛 0 | 🌐 Python | 📅 2026-09-12 - Periodically asks user questions (WIP)
+* [aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) ⭐ 96 | 🐛 0 | 🌐 Python | 📅 2026-09-12 - Periodically asks user questions (WIP)
 * [aw-watcher-table](https://github.com/Alwinator/aw-watcher-table) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2023-11-20 - Monitors height-adjustable desk position by @Alwinator
 * [aw-watcher-steam](https://github.com/Edwardsoen/aw-watcher-steam) ⭐ 41 | 🐛 6 | 🌐 Python | 📅 2025-06-16 - Tracks Steam gaming sessions
 * [aw-watcher-anki](https://github.com/abdnh/aw-watcher-anki) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2023-11-02 - Tracks Anki flashcard review time
@@ -138,7 +138,7 @@ Tools for migrating historical time tracking data from other tools into Activity
 
 # Sync
 
-* [aw-sync](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-sync) ⭐ 322 | 🐛 51 | 🌐 Rust | 📅 2026-11-18, the official sync-with-folder/bring-your-own-sync solution for ActivityWatch
+* [aw-sync](https://github.com/ActivityWatch/aw-server-rust/tree/master/aw-sync) ⭐ 322 | 🐛 50 | 🌐 Rust | 📅 2026-11-22, the official sync-with-folder/bring-your-own-sync solution for ActivityWatch
 * [aw-sync-suite](https://github.com/phrp720/aw-sync-suite) ⭐ 44 | 🐛 1 | 🌐 Go | 📅 2026-08-21, a centralized sync solution backed by Prometheus and visualized with Grafana, by @phrp720
 * [activitywatch-exporter](https://github.com/rare-magma/activitywatch-exporter) ⚠️ Archived, CLI tool that uploads the ActivityWatch data from the aw-server API to InfluxDB on a daily basis
 
@@ -179,4 +179,4 @@ Thank you for supporting ActivityWatch and helping it stay afloat financially as
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

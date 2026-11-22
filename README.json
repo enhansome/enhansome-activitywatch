@@ -15,11 +15,11 @@
             "id": 57224308,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-21T08:51:28Z",
-            "open_issues": 133,
+            "last_commit": "2026-11-22T01:46:24Z",
+            "open_issues": 130,
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 19769,
+            "stars": 19785,
             "topics": [
               "activitywatch",
               "afk",
@@ -149,8 +149,8 @@
             "id": 152148256,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-18T17:37:52Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-22T02:22:22Z",
+            "open_issues": 50,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 322,
@@ -210,8 +210,8 @@
             "id": 152148256,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-18T17:37:52Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-22T02:22:22Z",
+            "open_issues": 50,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 322,
@@ -552,6 +552,27 @@
             },
             {
               "node_type": "item",
+              "title": "activity-watch-mode",
+              "description": "Emacs mode by @pauldub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Emacs plugin for automatic time tracking and metrics generated from your programming activity.",
+                "homepage": "https://activitywatch.net",
+                "id": 153078690,
+                "language": "Emacs Lisp",
+                "license": null,
+                "last_commit": "2026-03-18T19:08:36Z",
+                "open_issues": 9,
+                "owner": "pauldub",
+                "repo": "activity-watch-mode",
+                "stars": 90,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:49:08.072Z"
+            },
+            {
+              "node_type": "item",
               "title": "aw-watcher-jetbrains",
               "description": "For all JetBrains IDEs by @OlivierMary (JetBrains Marketplace)",
               "children": [],
@@ -575,27 +596,6 @@
                   "idea-plugin",
                   "jetbrains"
                 ]
-              },
-              "first_seen": "2026-08-29T01:49:08.072Z"
-            },
-            {
-              "node_type": "item",
-              "title": "activity-watch-mode",
-              "description": "Emacs mode by @pauldub",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Emacs plugin for automatic time tracking and metrics generated from your programming activity.",
-                "homepage": "https://activitywatch.net",
-                "id": 153078690,
-                "language": "Emacs Lisp",
-                "license": null,
-                "last_commit": "2026-03-18T19:08:36Z",
-                "open_issues": 9,
-                "owner": "pauldub",
-                "repo": "activity-watch-mode",
-                "stars": 89,
-                "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
             },
@@ -964,7 +964,7 @@
                 "open_issues": 0,
                 "owner": "bcbernardo",
                 "repo": "aw-watcher-ask",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:08.072Z"
@@ -1369,8 +1369,8 @@
             "id": 152148256,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-18T17:37:52Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-22T02:22:22Z",
+            "open_issues": 50,
             "owner": "ActivityWatch",
             "repo": "aw-server-rust",
             "stars": 322,
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T23:30:25.002Z",
+    "last_updated": "2026-11-22T23:42:32.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome ActivityWatch resources",
